@@ -53,4 +53,4 @@ This lab guide section covers loading training data to your storage account.
 <br>
 
 ## 4.0. Next
-This concludes the module.  Refere to the main lab guide for the next step.
+This concludes the module.  Refer to the main lab guide for the next step.
