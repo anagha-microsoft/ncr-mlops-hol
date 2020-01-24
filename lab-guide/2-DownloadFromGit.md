@@ -38,3 +38,6 @@ You will need to upload the training dataset to blob storage, and to upload Jupy
 <hr>
 <br>
 
+## 3.0. Next
+
+Navigate to the next section of the lab guide that details how to load data into the storage account.
