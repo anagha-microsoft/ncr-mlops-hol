@@ -90,4 +90,4 @@ Go to dev.azure.com <br>
 
 
 ## Next steps
-Move to the next module -> load training data into your storage account
+Move to the next module -> download notebooks and datasets
