@@ -73,17 +73,17 @@ Go to dev.azure.com <br>
 1.  Create a new project<br>
 2.  Enter details as depicted below<br><br>
 
-![devops-1](../images/0001-create-azure-devops-1)
+![devops-1](../images/0001-create-azure-devops-1.png)
 <br>
 <hr>
 <br>
 
-![devops-2](../images/0001-create-azure-devops-2)
+![devops-2](../images/0001-create-azure-devops-2.png)
 <br>
 <hr>
 <br>
 
-![devops-3](../images/0001-create-azure-devops-3)
+![devops-3](../images/0001-create-azure-devops-3.png)
 <br>
 <hr>
 <br>
