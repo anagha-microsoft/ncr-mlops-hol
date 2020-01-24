@@ -8,6 +8,7 @@ This lab guide section covers provisioning of resources for the lab.  Please fol
 <br>
 <hr>
 <br>
+
 ## 2.0. Provision an Azure Machine Learning Service instance
 1.  Navigate into the resource group from #1.0.2 above<br>
 2.  Click on "+ Add" and type "Azure Machine Learning"<br>
@@ -37,6 +38,7 @@ You should see this...<br>
 <br>
 <hr>
 <br>
+
 ## 3.0. Provision a Storage Account (blob storage)
 1.  Navigate into the resource group from #1.0.2 above<br>
 2.  Click on "+ Add" and type "Storage Account"<br>
@@ -63,4 +65,25 @@ Ensure you pick the same region as your resource group <br><br>
 ![storage-5](../images/0001-create-storage-5.png)
 <br>
 <hr>
+<br>
 
+## 5.0. Provision an Azure Devops Repository
+Go to dev.azure.com <br>
+
+1.  Create a new project<br>
+2.  Enter details as depicted below<br><br>
+
+![devops-1](../images/0001-create-azure-devops-1)
+<br>
+<hr>
+<br>
+
+![devops-2](../images/0001-create-azure-devops-2)
+<br>
+<hr>
+<br>
+
+![devops-3](../images/0001-create-azure-devops-3)
+<br>
+<hr>
+<br>
