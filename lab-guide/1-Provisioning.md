@@ -37,7 +37,7 @@ You should see this...<br>
 <br>
 <hr>
 
-## 3.0. Provision an Azure Storage Account v1
+## 3.0. Provision a Storage Account (blob storage)
 1.  Navigate into the resource group from #1.0.2 above<br>
 2.  Click on "+ Add" and type "Storage Account"<br>
 3.  Follow the steps below to provision the service<br>
