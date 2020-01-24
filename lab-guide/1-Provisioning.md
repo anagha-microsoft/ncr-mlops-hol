@@ -21,10 +21,12 @@ Ensure you pick thje same region as your resource group <br>
 <br>
 <hr>
 
+Click create<br>
 ![aml-3](../images/0001-create-aml-3.png)
 <br>
 <hr>
 
+Enter the details and submit<br>
 ![aml-4](../images/0001-create-aml-4.png)
 <br>
 <hr>
