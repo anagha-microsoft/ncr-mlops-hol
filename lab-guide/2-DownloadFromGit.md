@@ -6,3 +6,15 @@ This lab guide section covers downloading the experimental notebooks and trainin
 <br>
 <hr>
 <br>
+
+
+![d-2](../images/0001-download-2.png)
+<br>
+<hr>
+<br>
+
+
+![d-3](../images/0001-download-3.png)
+<br>
+<hr>
+<br>
