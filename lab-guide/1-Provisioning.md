@@ -87,3 +87,7 @@ Go to dev.azure.com <br>
 <br>
 <hr>
 <br>
+
+
+## Next steps
+Move to the next module -> load training data into your storage account
