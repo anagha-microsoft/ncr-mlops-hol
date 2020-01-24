@@ -1,5 +1,5 @@
 ## About
-This lab guide section covers loading training data to your storage account.
+This lab guide section covers loading training data to your storage account.  Its important to have completed the previous section that covers downloading data and notebooks.
 <br>
 
 ## 1.0. Create a container in your storage account
@@ -53,4 +53,4 @@ This lab guide section covers loading training data to your storage account.
 <br>
 
 ## 4.0. Next
-This concludes the module.  Refer to the main lab guide for the next step.
+Proceed to the next step that covers loading the experimental notebooks into the Notebook VM provisioned in the provisioning section.
