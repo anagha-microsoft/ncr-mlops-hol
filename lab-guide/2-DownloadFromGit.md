@@ -18,3 +18,23 @@ This lab guide section covers downloading the experimental notebooks and trainin
 <br>
 <hr>
 <br>
+
+## 2.0. Browse content
+You will need to upload the training dataset to blob storage, and to upload Jupyter notebooks (experimental notebooks) to the Notebook VM.  Browse and get familiar with the files you downloaded.<br>
+
+
+![d-4](../images/0001-download-4.png)
+<br>
+<hr>
+<br>
+
+![d-5](../images/0001-download-5.png)
+<br>
+<hr>
+<br>
+
+![d-6](../images/0001-download-6.png)
+<br>
+<hr>
+<br>
+
