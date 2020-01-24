@@ -26,7 +26,7 @@ Click create<br>
 <br>
 <hr>
 
-Enter the details and submit<br>
+Enter the details and click n "create"<br>
 ![aml-4](../images/0001-create-aml-4.png)
 <br>
 <hr>
