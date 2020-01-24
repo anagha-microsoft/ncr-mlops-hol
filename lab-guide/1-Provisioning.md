@@ -12,6 +12,7 @@ This lab guide section covers provisioning of resources for the lab.  Please fol
 1.  Navigate into the resource group from #1.0.2 above<br>
 2.  Click on "+ Add" and type "Azure Machine Learning"<br>
 3.  Follow the steps below to provision the service<br>
+Ensure you pick thje same region as your resource group <br>
 ![aml-1](../images/0001-create-aml-1.png)
 <br>
 <hr>
