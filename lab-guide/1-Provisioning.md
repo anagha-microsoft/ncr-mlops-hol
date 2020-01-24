@@ -12,7 +12,8 @@ This lab guide section covers provisioning of resources for the lab.  Please fol
 1.  Navigate into the resource group from #1.0.2 above<br>
 2.  Click on "+ Add" and type "Azure Machine Learning"<br>
 3.  Follow the steps below to provision the service<br>
-Ensure you pick thje same region as your resource group <br>
+Ensure you pick the same region as your resource group <br><br>
+
 ![aml-1](../images/0001-create-aml-1.png)
 <br>
 <hr>
@@ -31,4 +32,34 @@ Enter the details and click n "create"<br>
 <br>
 <hr>
 
+You should see this...<br>
+![aml-5](../images/0001-create-aml-5.png)
+<br>
+<hr>
+
+## 3.0. Provision an Azure Storage Account v1
+1.  Navigate into the resource group from #1.0.2 above<br>
+2.  Click on "+ Add" and type "Storage Account"<br>
+3.  Follow the steps below to provision the service<br>
+Ensure you pick the same region as your resource group <br><br>
+
+![storage-1](../images/0001-create-storage-1.png)
+<br>
+<hr>
+
+![storage-2](../images/0001-create-storage-2.png)
+<br>
+<hr>
+
+![storage-3](../images/0001-create-storage-3.png)
+<br>
+<hr>
+
+![storage-4](../images/0001-create-storage-4.png)
+<br>
+<hr>
+
+![storage-5](../images/0001-create-storage-5.png)
+<br>
+<hr>
 
