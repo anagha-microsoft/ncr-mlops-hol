@@ -30,6 +30,7 @@ This lab guide section covers loading training data to your storage account.
 <hr>
 <br>
 
+## 2.0. Upload the training dataset to the container
 ![ld-6](../images/0001-load-data-6.png)
 <br>
 <hr>
@@ -45,7 +46,11 @@ This lab guide section covers loading training data to your storage account.
 <hr>
 <br>
 
+## 3.0. Capture the URL for the data - we will use it later
 ![ld-9](../images/0001-load-data-9.png)
 <br>
 <hr>
 <br>
+
+## 4.0. Next
+This concludes the module.  Refere to the main lab guide for the next step.
