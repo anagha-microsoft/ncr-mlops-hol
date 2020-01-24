@@ -15,12 +15,15 @@ This lab guide section covers provisioning of resources for the lab.  Please fol
 ![aml-1](../images/0001-create-aml-1.png)
 <br>
 <hr>
+
 ![aml-2](../images/0001-create-aml-2.png)
 <br>
 <hr>
+
 ![aml-3](../images/0001-create-aml-3.png)
 <br>
 <hr>
+
 ![aml-4](../images/0001-create-aml-4.png)
 <br>
 <hr>
