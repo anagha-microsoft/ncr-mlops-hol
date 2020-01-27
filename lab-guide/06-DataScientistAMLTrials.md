@@ -93,6 +93,32 @@ Switch to the Jupyter home page see the directory you created.
 <hr>
 <br>
 
+
+## 7.0. Provision managed compute
+In Jupyter, execute this cell..<br>
+![dse2-6-1](../images/0001-ds-aml-06-1.png)
+<br>
+<hr>
+<br>
+
+Observe the status changinbg in the cell output..
+![dse2-6-2](../images/0001-ds-aml-06-2.png)
+<br>
+<hr>
+<br>
+
+You should see the completion message
+![dse2-6-3](../images/0001-ds-aml-06-3.png)
+<br>
+<hr>
+<br>
+
+Switch to the portal and ensure you see the compute provisioned...
+![dse2-6-4](../images/0001-ds-aml-06-4.png)
+<br>
+<hr>
+<br>
+
 ## Next steps
 Move to the next module -> data scientist trials continued, this time, with AML integration.
 
