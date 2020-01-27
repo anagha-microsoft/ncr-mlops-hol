@@ -67,7 +67,7 @@ The focus is not the ML experiment as much as how to integrate with Azure Machin
 <hr>
 <br>
 
-
+## 9.0. Notebook review part 4 - feature importance
 
 ![dse1-3](../images/0001-run-experiment-03.png)
 <br>
