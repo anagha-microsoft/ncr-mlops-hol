@@ -48,17 +48,19 @@ Capture the device authn code, and click on the link.
 <hr>
 <br>
 
+Enter your code
 ![dse2-6-3](../images/0001-ds-aml-03.3.png)
 <br>
 <hr>
 <br>
 
-Enter your code, select your user name/subscription and authenticate yourself..
+Select your user name/subscription and authenticate yourself..
 ![dse2-6-4](../images/0001-ds-aml-03.4.png)
 <br>
 <hr>
 <br>
 
+Close the page..
 ![dse2-6-5](../images/0001-ds-aml-03.5.png)
 <br>
 <hr>
