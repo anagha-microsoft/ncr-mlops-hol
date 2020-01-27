@@ -86,3 +86,6 @@ This lab guide section covers provisioning a Notebook VM and uploading the exper
 <br>
 <hr>
 <br>
+
+## Next steps
+Move to the next module -> data scientist trials
