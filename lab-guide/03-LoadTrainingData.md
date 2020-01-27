@@ -1,3 +1,5 @@
+# Module 3 - Upload training data
+
 ## About
 This lab guide section covers loading training data to your storage account.  Its important to have completed the previous section that covers downloading data and notebooks.
 <br>
