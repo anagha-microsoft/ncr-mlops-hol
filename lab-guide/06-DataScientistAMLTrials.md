@@ -164,6 +164,33 @@ You should see the output in Jupyter...
 <hr>
 <br>
 
+## 11.0. Poll for experiment completion, and validate in Jupyter home page for creation of model 
+In Jupyter, execute this cell..<br>
+![dse2-11-1](../images/0001-ds-aml-11-1.png)
+<br>
+<hr>
+<br>
+
+![dse2-11-2](../images/0001-ds-aml-11-2.png)
+<br>
+<hr>
+<br>
+
+![dse2-11-3](../images/0001-ds-aml-11-3.png)
+<br>
+<hr>
+<br>
+
+![dse2-11-4](../images/0001-ds-aml-11-4.png)
+<br>
+<hr>
+<br>
+
+![dse2-11-5](../images/0001-ds-aml-11-5.png)
+<br>
+<hr>
+<br>
+
 ## Next steps
 Move to the next module -> data scientist trials continued, this time, with AML integration.
 
