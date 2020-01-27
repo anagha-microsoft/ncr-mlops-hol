@@ -69,12 +69,25 @@ In Jupyter, execute this cell..<br>
 <hr>
 <br>
 
-Switch to the portal and look at "Experiments" in your AML workspace
+Switch to the portal and look at "Experiments" in your AML workspace; You should see the experiment you created.
 ![dse2-4-2](../images/0001-ds-aml-04-2.png)
 <br>
 <hr>
 <br>
 
+
+## 6.0. Configure a project directory and see the same created in Jupyter home page
+In Jupyter, execute this cell..<br>
+![dse2-5-1](../images/0001-ds-aml-05-1.png)
+<br>
+<hr>
+<br>
+
+Switch to the Jupyter home page see the directory you created.
+![dse2-5-2](../images/0001-ds-aml-05-2.png)
+<br>
+<hr>
+<br>
 
 ## Next steps
 Move to the next module -> data scientist trials continued, this time, with AML integration.
