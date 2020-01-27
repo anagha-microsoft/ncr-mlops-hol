@@ -1,3 +1,5 @@
+# Module 5a - The base experiment (without AML)
+
 ## About
 This lab guide section covers review of a model training experiment - in one of the notebooks uploaded in the previous section.  The notebook details an entire experiment (model training).  The code is from my data scientist contact - Michael Kareev - formerly a customer contact<br>
 
