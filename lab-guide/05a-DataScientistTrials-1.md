@@ -44,6 +44,64 @@ This notebook introduces the Jupyter notebook on Azure; Typically, a data scient
 The instructor will talk through how to use Jupyter notebook.<br>
 The focus is not the ML experiment as much as how to integrate with Azure Machine Learning and Azure DevOps - bear this in mind.<br>
 
+## 6.0. Notebook review - part 1 - load necessary packages
+
+![dse1-1](../images/0001-run-experiment-01.png)
+<br>
+<hr>
+<br>
+
+
+![dse1-2](../images/0001-run-experiment-02.png)
+<br>
+<hr>
+<br>
+
+
+![dse1-3](../images/0001-run-experiment-03.png)
+<br>
+<hr>
+<br>
+
+![dse1-4](../images/0001-run-experiment-04.png)
+<br>
+<hr>
+<br>
+
+![dse1-5](../images/0001-run-experiment-05.png)
+<br>
+<hr>
+<br>
+
+
+![dse1-6](../images/0001-run-experiment-06.png)
+<br>
+<hr>
+<br>
+
+
+![dse1-7](../images/0001-run-experiment-07.png)
+<br>
+<hr>
+<br>
+
+
+![dse1-8](../images/0001-run-experiment-08.png)
+<br>
+<hr>
+<br>
+
+
+![dse1-9](../images/0001-run-experiment-09.png)
+<br>
+<hr>
+<br>
+
+
+
+
+
+
 ## Next steps
 Move to the next module -> data scientist trials with AML integration.
 
