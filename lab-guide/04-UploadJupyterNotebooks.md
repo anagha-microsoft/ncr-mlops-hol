@@ -36,6 +36,7 @@ This lab guide section covers provisioning a Notebook VM and uploading the exper
 <br>
 
 ## 2.0. Launch Jupyter service on the Notebook VM provisioned
+
 ![ujn-6](../images/0001-load-nbvm-06.png)
 <br>
 <hr>
@@ -47,6 +48,8 @@ This lab guide section covers provisioning a Notebook VM and uploading the exper
 <hr>
 <br>
 
+
+## 3.0. Upload the notebooks for use in the lab
 
 ![ujn-8](../images/0001-load-nbvm-08.png)
 <br>
@@ -60,6 +63,26 @@ This lab guide section covers provisioning a Notebook VM and uploading the exper
 <br>
 
 ![ujn-10](../images/0001-load-nbvm-10.png)
+<br>
+<hr>
+<br>
+
+![ujn-11](../images/0001-load-nbvm-11.png)
+<br>
+<hr>
+<br>
+
+![ujn-12](../images/0001-load-nbvm-12.png)
+<br>
+<hr>
+<br>
+
+![ujn-13](../images/0001-load-nbvm-13.png)
+<br>
+<hr>
+<br>
+
+![ujn-14](../images/0001-load-nbvm-14.png)
 <br>
 <hr>
 <br>
