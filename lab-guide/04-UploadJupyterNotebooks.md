@@ -1,7 +1,7 @@
 # Module 3 - Upload Jupyter notebooks
 
 ## About
-This lab guide section covers provisioning a Notebook VM and uploading the experimental notebooks it.  Its important to have completed the section that covers downloading data and notebooksn from git.
+This module covers provisioning a Notebook VM and uploading the experimental notebooks it.  Its important to have completed the section that covers downloading data and notebooksn from git.
 <br>
 
 ## 1.0. Provision a Notebook VM instance in your Azure Machine Learning Workspace
