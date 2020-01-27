@@ -146,16 +146,19 @@ In Jupyter, execute this cell..<br>
 <hr>
 <br>
 
+
 ![dse2-10-2](../images/0001-ds-aml-10-2.png)
 <br>
 <hr>
 <br>
 
+You should see the experiment is running...
 ![dse2-10-3](../images/0001-ds-aml-10-3.png)
 <br>
 <hr>
 <br>
 
+You should see the output in Jupyter...
 ![dse2-10-4](../images/0001-ds-aml-10-4.png)
 <br>
 <hr>
