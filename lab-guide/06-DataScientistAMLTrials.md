@@ -42,6 +42,7 @@ Launch 02-ml-ops-training.ipynb.  You can get to it in your Jupyter environment,
 <hr>
 <br>
 
+Capture the device authn code, and click on the link.
 ![dse2-6-2](../images/0001-ds-aml-03.2.png)
 <br>
 <hr>
@@ -52,6 +53,7 @@ Launch 02-ml-ops-training.ipynb.  You can get to it in your Jupyter environment,
 <hr>
 <br>
 
+Enter your code, select your user name/subscription and authenticate yourself..
 ![dse2-6-4](../images/0001-ds-aml-03.4.png)
 <br>
 <hr>
