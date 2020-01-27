@@ -1,9 +1,11 @@
 # Module 5 - The base experiment (without AML)
 
 ## About
-This module covers an entire model training experiment - notebooks () uploaded in the previous section.  The code is from my data scientist contact - Michael Kareev - formerly a customer contact.<br>
+This module covers an entire model training experiment - notebook, 01-ml-trials-manual.ipynb uploaded in the previous section.  The code is from my data scientist contact - Michael Kareev.<br>
 
-A data scientist would build their experiment similarly in a Jupyter notebook.  In the next module, we will learn how to integrate this exact experiment, with Azure Machine Learning.  Eventually, we will learn to package this into a DevOps build pipeline.  This merely demonstrates a base experiment and traces the workflow/lifecycle of a model development.<br>
+A data scientist would build their experiment as depicted in this module, in a Jupyter notebook.  In the next module, we will learn how to integrate this exact experiment, with Azure Machine Learning.  Eventually, we will learn to package this into a DevOps build pipeline.  This module merely demonstrates a base experiment and traces the workflow/lifecycle of a model development.<br>
+
+Once again- this module does not touch Azure Machine Learning.  Its a plain experiment in Python, in the Notebookm VM, on Jupyter notebook.<br>
 
 ## 1.0. About the dataset, framingham.csv
 The dataset is framingham.csv, you downloaded it in section 2;  Its a popular Kaggle open dataset.<br>
