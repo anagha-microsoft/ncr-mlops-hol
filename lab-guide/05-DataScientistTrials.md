@@ -1,6 +1,6 @@
 ## About
 This lab guide section covers review of two notebooks uploaded in the previous section.<br>
-1.  The first notebook details an entire experiment (model training) for Coronoary Heart Disease Prediction.  The code is from my data scientist contact - Michadel Kareev - formerly a customer contact<br>
+1.  The first notebook details an entire experiment (model training) for Coronoary Heart Disease Prediction.  The code is from my data scientist contact - Michael Kareev - formerly a customer contact<br>
 2.  The dataset is the famous Kaggle dataset - framingham.csv <br>
 3.  The second notebook demonstrates how to leverage Azure Machine Learning integration for spinning up transient compute, run a model training experiment, persist the model into the model register <br>
 
