@@ -4,12 +4,21 @@ This lab guide section covers provisioning a Notebook VM and uploading the exper
 
 ## 1.0. Provision a Notebook VM instance in your Azure Machine Learning Workspacve
 1. Navigate to your Azure Machine Learning instance on the Azure portal
-2. Click on "compute" in the left 
-3. Create a Notebook VM as detailed below
+2. Click on "Compute" in the left navigation panel
+3. Create a Notebook VM as detailed below in the diagrams
 <br>
 
-![ujn-1](../images/0001-load-data-1.png)
+![ujn-1](../images/0001-load-nbvm-01.png)
 <br>
 <hr>
 <br>
 
+![ujn-2](../images/0001-load-nbvm-02.png)
+<br>
+<hr>
+<br>
+
+![ujn-3](../images/0001-load-nbvm-03.png)
+<br>
+<hr>
+<br>
