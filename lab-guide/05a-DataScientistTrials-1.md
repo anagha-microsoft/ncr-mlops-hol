@@ -106,18 +106,14 @@ The focus is not the ML experiment as much as how to integrate with Azure Machin
 <br>
 
 
+## 15.0. Notebook review part 10 - run multiple predictions in a call, including as called by REST service when we operationalize it
 ![dse1-9](../images/0001-run-experiment-09.png)
 <br>
 <hr>
 <br>
 
-
-
-
-
-
 ## Next steps
-Move to the next module -> data scientist trials with AML integration.
+Move to the next module -> data scientist trials continued, this time, with AML integration.
 
 
 
