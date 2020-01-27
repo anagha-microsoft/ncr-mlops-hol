@@ -1,7 +1,7 @@
 # Module 5a - The base experiment (without AML)
 
 ## About
-This lab guide section covers review of a model training experiment - in one of the notebooks uploaded in the previous section.  The notebook details an entire experiment (model training).  The code is from my data scientist contact - Michael Kareev - formerly a customer contact<br>
+This module covers an entire model training experiment (model training) - in one of the notebooks uploaded in the previous section.  The code is from my data scientist contact - Michael Kareev - formerly a customer contact<br>
 
 ## 1.0. About the dataset, framingham.csv
 The dataset is framingham.csv, you downloaded it in section 2;  Its a popular Kaggle open dataset.<br>
