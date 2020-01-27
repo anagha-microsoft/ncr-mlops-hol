@@ -171,6 +171,7 @@ In Jupyter, execute this cell..<br>
 <hr>
 <br>
 
+Poll...
 ![dse2-11-2](../images/0001-ds-aml-11-2.png)
 <br>
 <hr>
@@ -181,12 +182,26 @@ In Jupyter, execute this cell..<br>
 <hr>
 <br>
 
+Poll...
 ![dse2-11-4](../images/0001-ds-aml-11-4.png)
 <br>
 <hr>
 <br>
 
+You should see the model persisted, in yiur Jupyter home page in the specified directory
 ![dse2-11-5](../images/0001-ds-aml-11-5.png)
+<br>
+<hr>
+<br>
+
+## 12.0. Check experiment status
+In Jupyter, execute this cell..<br>
+![dse2-12-1](../images/0001-ds-aml-12-1.png)
+<br>
+<hr>
+<br>
+
+![dse2-12-2](../images/0001-ds-aml-12-2.png)
 <br>
 <hr>
 <br>
