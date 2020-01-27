@@ -7,7 +7,7 @@ https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset
 
 ## 1.0. About the dataset, framingham.csv
 
-**Attributes/columns:**
+**Attributes/columns:** <br><br>
 male: 0 = Female; 1 = Male<br>
 age: Age at exam time<br>
 education: 1 = Some High School; 2 = High School or GED; 3 = Some College or Vocational School; 4 = college<br>
