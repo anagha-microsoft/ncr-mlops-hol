@@ -1,7 +1,9 @@
 # Module 5 - The base experiment (without AML)
 
 ## About
-This module covers an entire model training experiment (model training) - in one of the notebooks uploaded in the previous section.  The code is from my data scientist contact - Michael Kareev - formerly a customer contact<br>
+This module covers an entire model training experiment - notebooks () uploaded in the previous section.  The code is from my data scientist contact - Michael Kareev - formerly a customer contact.<br>
+
+A data scientist would build their experiment similarly in a Jupyter notebook.  In the next module, we will learn how to integrate this exact experiment, with Azure Machine Learning.  Eventually, we will learn to package this into a DevOps build pipeline.  This merely demonstrates a base experiment and traces the workflow/lifecycle of a model development.<br>
 
 ## 1.0. About the dataset, framingham.csv
 The dataset is framingham.csv, you downloaded it in section 2;  Its a popular Kaggle open dataset.<br>
@@ -31,7 +33,7 @@ label; 0 = No for heart disease, 1 = Yes for heart disease;<br>
 Given a set of attributes, predict whether a person is at risk of heart disease.
 
 ## 3.0. About the experiment
-The data scientist first prepares the data/dfata engineers, then runs an ML algorithm to train the model.
+The data scientist first prepares the data/data engineers, then runs an ML algorithm to train the model.
 The experiment is supervised learning, classification type, leveraging Scikit-Learn library.  Use case is Coronary Heart Disease Prediction with the famous Kaggle dataset - framingham.csv described above.
 
 ## 4.0. Why this notebook?
