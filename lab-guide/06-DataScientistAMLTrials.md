@@ -119,6 +119,48 @@ Switch to the portal and ensure you see the compute provisioned...
 <hr>
 <br>
 
+## 8.0. Create a docker based environment
+In Jupyter, execute this cell..<br>
+![dse2-7-1](../images/0001-ds-aml-07.png)
+<br>
+<hr>
+<br>
+
+## 9.0. Create the training script file
+In Jupyter, execute this cell..<br>
+![dse2-8-1](../images/0001-ds-aml-08.png)
+<br>
+<hr>
+<br>
+
+In Jupyter, execute this cell..<br>
+![dse2-8-2](../images/0001-ds-aml-09.png)
+<br>
+<hr>
+<br>
+
+## 10.0. Launch the experiment and check the execution details both in Jupyter cell output as well as the AML workspace in the portal
+In Jupyter, execute this cell..<br>
+![dse2-10-1](../images/0001-ds-aml-10-1.png)
+<br>
+<hr>
+<br>
+
+![dse2-10-2](../images/0001-ds-aml-10-2.png)
+<br>
+<hr>
+<br>
+
+![dse2-10-3](../images/0001-ds-aml-10-3.png)
+<br>
+<hr>
+<br>
+
+![dse2-10-4](../images/0001-ds-aml-10-4.png)
+<br>
+<hr>
+<br>
+
 ## Next steps
 Move to the next module -> data scientist trials continued, this time, with AML integration.
 
