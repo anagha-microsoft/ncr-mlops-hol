@@ -1,4 +1,4 @@
-# Module 5a - The base experiment (without AML)
+# Module 5 - The base experiment (without AML)
 
 ## About
 This module covers an entire model training experiment (model training) - in one of the notebooks uploaded in the previous section.  The code is from my data scientist contact - Michael Kareev - formerly a customer contact<br>
