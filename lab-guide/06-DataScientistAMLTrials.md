@@ -28,10 +28,39 @@ Is 02-ml-ops-training.ipynb.  You can get to it in your Jupyter environment, you
 <hr>
 <br>
 
+## 3.0. Load necessary packages
 
+![dse2-5](../images/0001-ds-aml-02.png)
+<br>
+<hr>
+<br>
 
+## 4.0. Connect to your Azure Machine Learninvg workspace and authenticate
 
+![dse2-6-1](../images/0001-ds-aml-03-1.png)
+<br>
+<hr>
+<br>
 
+![dse2-6-2](../images/0001-ds-aml-03-2.png)
+<br>
+<hr>
+<br>
+
+![dse2-6-3](../images/0001-ds-aml-03-3.png)
+<br>
+<hr>
+<br>
+
+![dse2-6-4](../images/0001-ds-aml-03-4.png)
+<br>
+<hr>
+<br>
+
+![dse2-6-5](../images/0001-ds-aml-03-5.png)
+<br>
+<hr>
+<br>
 
 ## Next steps
 Move to the next module -> data scientist trials continued, this time, with AML integration.
