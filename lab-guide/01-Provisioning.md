@@ -1,7 +1,7 @@
 # Module 1 - Provisioning
 
 ## About
-This lab guide section covers provisioning of resources for the lab.  Please follow the steps carefully, and sequentially to ensure you dont run into issues.
+This module covers provisioning of resources for the lab.  Please follow the steps carefully, and sequentially to ensure you dont run into issues.
 <br>
 ## 1.0. Provision a resource group
 1. Logon to the Azure portal (portal.azure.com), and sign-in to your Azure subscription<br>
