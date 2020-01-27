@@ -20,6 +20,9 @@ This lab guide section covers loading training data to your storage account.  It
 <hr>
 <br>
 
+
+Note: For simplicity of the lab, we are going the route of anonymous access.  For an actual project, consult your Microsoft CSA on best practice.<br>
+
 ![ld-4](../images/0001-load-data-4.png)
 <br>
 <hr>
