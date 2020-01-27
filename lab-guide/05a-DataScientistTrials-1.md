@@ -1,11 +1,9 @@
 ## About
-This lab guide section covers review of a model training experiment - in one of the notebooks uploaded in the previous section.<br>
-- The notebook details an entire experiment (model training).  The code is from my data scientist contact - Michael Kareev - formerly a customer contact<br>
-- The dataset is framingham.csv, you downloaded it in section 2;  Its a popular Kaggle open dataset.<br>
-https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset
-
+This lab guide section covers review of a model training experiment - in one of the notebooks uploaded in the previous section.  The notebook details an entire experiment (model training).  The code is from my data scientist contact - Michael Kareev - formerly a customer contact<br>
 
 ## 1.0. About the dataset, framingham.csv
+The dataset is framingham.csv, you downloaded it in section 2;  Its a popular Kaggle open dataset.<br>
+https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset
 
 **Attributes/columns:** <br><br>
 male: 0 = Female; 1 = Male<br>
@@ -22,16 +20,21 @@ sysBP in mmHg<br>
 diaBP in mmHg<br>
 BMI: Body Mass Index calculated as: Weight (kg) / Height(meter-squared)<br>
 heartRate: Beats/Min (Ventricular)<br>
-glucose in mg/dL<br>
-TenYearCHD - label; 0 = No for heart disease, 1 = Yes for heart disease<br>
+glucose in mg/dL<br><br>
 
+TenYearCHD - Did the person get heart disease in the 10 years study period? <br>
+label; 0 = No for heart disease, 1 = Yes for heart disease;<br>
 
-## 2.0. About the experiment - 
+## 2.0. About the use case - Coronary Heart Disease Prediction
+Given a set of attributes, predict whether a person is at risk of heart disease.
 
+## 3.0. About the experiment
+The data scientist first prepares the data/dfata engineers, then runs an ML algorithm to train the model.
 
-<br>
+## 4.0. Why this notebook?
+This notebook introduces the Jupyter notebook on Azure; Typically, a data scientist would run experiments here, and then collabnorate with the DevOps engineer for operationalizing the pipelines and the model as a REST service.  In the next module, you will learn how to take the code and integrate with Azure Machine Learning.<br>
 
-## 1.0. Provision a Notebook VM instance in your Azure Machine Learning Workspace
+## 5.0. Execute the notebook
 1. Navigate to your Azure Machine Learning instance on the Azure portal
 2. Click on "Compute" in the left navigation panel
 3. Create a Notebook VM as detailed below in the diagrams
