@@ -40,6 +40,10 @@ You should see this...<br>
 <br>
 
 ## 3.0. Provision a Storage Account (blob storage)
+Note: We are using blob storage in this lab for simplicity.<br>
+We are also not using the AML dataset abstraction for the same reason.  <br>
+For an actual project, consult your Microsoft CSA for guidance.<br><br>
+
 1.  Navigate into the resource group from #1.0.2 above<br>
 2.  Click on "+ Add" and type "Storage Account"<br>
 3.  Follow the steps below to provision the service<br>
