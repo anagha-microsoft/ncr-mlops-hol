@@ -30,6 +30,7 @@ Given a set of attributes, predict whether a person is at risk of heart disease.
 
 ## 3.0. About the experiment
 The data scientist first prepares the data/dfata engineers, then runs an ML algorithm to train the model.
+The experiment is supervised learning, classification type, leveraging Scikit-Learn library.  Use case is Coronary Heart Disease Prediction with the famous Kaggle dataset - framingham.csv described above.
 
 ## 4.0. Why this notebook?
 This notebook introduces the Jupyter notebook on Azure; Typically, a data scientist would run experiments here, and then collabnorate with the DevOps engineer for operationalizing the pipelines and the model as a REST service.  In the next module, you will learn how to take the code and integrate with Azure Machine Learning.<br>
@@ -37,10 +38,13 @@ This notebook introduces the Jupyter notebook on Azure; Typically, a data scient
 ## 5.0. Execute the notebook
 1. Navigate to your Azure Machine Learning instance on the Azure portal
 2. Click on "Compute" in the left navigation panel
-3. Create a Notebook VM as detailed below in the diagrams
-<br>
+3. Click on Jupyter service
+4. Then click on the first notebook
 
-![ujn-1](../images/0001-load-nbvm-01.png)
-<br>
-<hr>
-<br>
+The instructor will talk through how to use Jupyter notebook.
+
+
+
+
+
+
