@@ -1,3 +1,5 @@
+# Module 2 - Code and docs download
+
 ## About
 This lab guide section covers downloading the experimental notebooks and training datasets we will need for the lab.
 <br>
