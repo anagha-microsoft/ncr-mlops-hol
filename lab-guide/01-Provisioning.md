@@ -43,6 +43,7 @@ You should see this...<br>
 1.  Navigate into the resource group from #1.0.2 above<br>
 2.  Click on "+ Add" and type "Storage Account"<br>
 3.  Follow the steps below to provision the service<br>
+Note - Storage account names are globally unique so you will not be able to use the exact same name as mine.  Consider a suffix that you can easily remember and add it to the name.<br>
 Ensure you pick the same region as your resource group <br><br>
 
 ![storage-1](../images/0001-create-storage-1.png)
