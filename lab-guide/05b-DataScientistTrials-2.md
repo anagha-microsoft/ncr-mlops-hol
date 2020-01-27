@@ -1,31 +1,11 @@
-# Module 5a - The base experiment (without AML)
+# Module 5b - The base experiment + Azure Machine Learning integration
 
 ## About
-This lab guide section covers review of a model training experiment - in one of the notebooks uploaded in the previous section.  The notebook details an entire experiment (model training).  The code is from my data scientist contact - Michael Kareev - formerly a customer contact<br>
+This module covers review of a model training experiment with Azure ML integration. The notebook referenced in the module is a sample you can use to show a Data Scientist how to leverage AML Service for transient training compute provisioning, model training, and registering the trained model into AML model registry. Section 8 in this notebook will be leveraged as a .py script in the DevOps pipeline.
 
-## 1.0. About the dataset, framingham.csv
-The dataset is framingham.csv, you downloaded it in section 2;  Its a popular Kaggle open dataset.<br>
-https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset
-
-**Attributes/columns:** <br><br>
-male: 0 = Female; 1 = Male<br>
-age: Age at exam time<br>
-education: 1 = Some High School; 2 = High School or GED; 3 = Some College or Vocational School; 4 = college<br>
-currentSmoker: 0 = nonsmoker; 1 = smoker<br>
-cigsPerDay: number of cigarettes smoked per day (estimated average)<br>
-BPMeds: 0 = Not on Blood Pressure medications; 1 = Is on Blood Pressure medications<br>
-prevalentStroke<br>
-prevalentHyp<br>
-diabetes: 0 = No; 1 = Yes<br>
-totChol in mg/dL<br>
-sysBP in mmHg<br>
-diaBP in mmHg<br>
-BMI: Body Mass Index calculated as: Weight (kg) / Height(meter-squared)<br>
-heartRate: Beats/Min (Ventricular)<br>
-glucose in mg/dL<br><br>
-
-TenYearCHD - Did the person get heart disease in the 10 years study period? <br>
-label; 0 = No for heart disease, 1 = Yes for heart disease;<br>
+## 1.0. The notebook...
+Is 02-ml-ops-training.ipynb
+You can get to it in your Jupyter environment.
 
 ## 2.0. About the use case - Coronary Heart Disease Prediction
 Given a set of attributes, predict whether a person is at risk of heart disease.
