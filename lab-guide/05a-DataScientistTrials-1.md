@@ -41,9 +41,11 @@ This notebook introduces the Jupyter notebook on Azure; Typically, a data scient
 3. Click on Jupyter service
 4. Then click on the first notebook
 
-The instructor will talk through how to use Jupyter notebook.
+The instructor will talk through how to use Jupyter notebook.<br>
+The focus is not the ML experiment as much as how to integrate with Azure Machine Learning and Azure DevOps - bear this in mind.<br>
 
-
+## Next steps
+Move to the next module -> data scientist trials with AML integration.
 
 
 
