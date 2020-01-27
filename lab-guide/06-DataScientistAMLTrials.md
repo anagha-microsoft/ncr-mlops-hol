@@ -1,4 +1,4 @@
-# Module 6 - The base experiment + Azure Machine Learning integration
+# Module 6 - The base experiment + Azure Machine Learning integration (Not Devops yet)
 
 ## About
 This module covers review of a model training experiment with Azure ML integration. The notebook, 02-ml-ops-training.ipynb, referenced in the module is a sample you can use to show a Data Scientist how to leverage AML Service for transient training compute provisioning, model training, and registering the trained model into AML model registry. Section 8 of the notebook will be leveraged as a .py script in the DevOps pipeline.
