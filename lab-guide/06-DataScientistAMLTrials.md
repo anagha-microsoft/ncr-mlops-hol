@@ -201,7 +201,20 @@ In Jupyter, execute this cell..<br>
 <hr>
 <br>
 
+You should see output like below.
 ![dse2-12-2](../images/0001-ds-aml-12-2.png)
+<br>
+<hr>
+<br>
+
+## 13.0. Review of experiment as logged in AML
+In Jupyter, execute this cell..<br>
+![dse2-13-1](../images/0001-ds-aml-13-1.png)
+<br>
+<hr>
+<br>
+
+![dse2-13-2](../images/0001-ds-aml-13-2.png)
 <br>
 <hr>
 <br>
