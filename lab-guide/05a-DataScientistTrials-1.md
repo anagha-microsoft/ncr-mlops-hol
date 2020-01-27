@@ -74,29 +74,32 @@ The focus is not the ML experiment as much as how to integrate with Azure Machin
 <hr>
 <br>
 
+
+## 10.0. Notebook review part 5 - rerun with important features only from #9
 ![dse1-4](../images/0001-run-experiment-04.png)
 <br>
 <hr>
 <br>
 
+## 11.0. Notebook review part 6 - the metrics we need
 ![dse1-5](../images/0001-run-experiment-05.png)
 <br>
 <hr>
 <br>
 
-
+## 12.0. Notebook review part 7 - the metrics from the model training
 ![dse1-6](../images/0001-run-experiment-06.png)
 <br>
 <hr>
 <br>
 
-
+## 13.0. Notebook review part 8 - persist the model
 ![dse1-7](../images/0001-run-experiment-07.png)
 <br>
 <hr>
 <br>
 
-
+## 14.0. Notebook review part 9 - load model and run a prediction
 ![dse1-8](../images/0001-run-experiment-08.png)
 <br>
 <hr>
