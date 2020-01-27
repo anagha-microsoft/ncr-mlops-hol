@@ -35,7 +35,7 @@ Launch 02-ml-ops-training.ipynb.  You can get to it in your Jupyter environment,
 <hr>
 <br>
 
-## 4.0. Connect to your Azure Machine Learninvg workspace and authenticate
+## 4.0. Connect to your Azure Machine Learning workspace and authenticate
 
 ![dse2-6-1](../images/0001-ds-aml-03.1.png)
 <br>
@@ -61,6 +61,20 @@ Launch 02-ml-ops-training.ipynb.  You can get to it in your Jupyter environment,
 <br>
 <hr>
 <br>
+
+## 5.0. Instantiate an experiment in your notebook; Cross reference its creation in your AML workspace - experiments
+In Jupyter, execute this cell..<br>
+![dse2-4-1](../images/0001-ds-aml-04-1.png)
+<br>
+<hr>
+<br>
+
+Switch to the portal and look at "Experiments" in your AML workspace
+![dse2-4-2](../images/0001-ds-aml-04-2.png)
+<br>
+<hr>
+<br>
+
 
 ## Next steps
 Move to the next module -> data scientist trials continued, this time, with AML integration.
