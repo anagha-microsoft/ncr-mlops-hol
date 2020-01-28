@@ -2,6 +2,7 @@
 
 ## About
 This module covers launching Azure DevOps UI, navigating to the repository and importing DevOps scripts for the lab (in the lab's git repo) into your Azure DevOps git repo. This module is dependent on successful creation of the Azure DevOps repo in module 1.
+<br><br>Dedicate 10-15 minutes for this module.
 
 ## 1.0. Navigate lab's git repo for the DevOps code
 In the browser, go to https://github.com/anagha-microsoft/ncr-mlops-hol-code and download the code, and browse through it.  We will import this into the Azure DevOps git you created.
