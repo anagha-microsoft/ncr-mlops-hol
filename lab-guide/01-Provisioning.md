@@ -2,7 +2,7 @@
 
 ## About
 This module covers provisioning of resources for the lab.  Please follow the steps carefully, and sequentially to ensure you dont run into issues.
-<br>
+<br><br>Dedicate 20-30 minutes to complete this module if new to Azure.  Otherwise, you can complete modules in parallel and complete is 15 minutes
 ## 1.0. Provision a resource group
 1. Logon to the Azure portal (portal.azure.com), and sign-in to your Azure subscription<br>
 2. Create a resource group as shown in the screenshots below<br>
