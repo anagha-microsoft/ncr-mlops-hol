@@ -98,7 +98,7 @@ Note that it does not have "manual" keyword in it
 <hr>
 <br>
 
-14) ....<br>
+14) Notice that there are multiple runs<br>
 
 ![dse2-15](../images/0001-create-build-pipeline-15.png)
 <br>
