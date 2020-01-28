@@ -82,5 +82,8 @@ Follow the steps below to import the code<br>
 <hr>
 <br>
 
+## Recap
+Its a wrap for this module.  In this module you learned to (1) navigate into your DevOps project, git repo and (2) import code from the lab's public git repo, (3) you learned the layout of the code imported and (4) validated successful import completion
+
 ## Next steps
 Move to the next module -> Configure an Azure DevOps Service Connection
