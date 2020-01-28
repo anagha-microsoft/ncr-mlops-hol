@@ -5,7 +5,8 @@ This module covers an entire model training experiment - notebook, 01-ml-trials-
 
 A data scientist would build their experiment as depicted in this module, in a Jupyter notebook.  In the next module, we will learn how to integrate this exact experiment, with Azure Machine Learning.  Eventually, we will learn to package this into a DevOps build pipeline.  This module merely demonstrates a base experiment and traces the lifecycle of model development.<br>
 
-Once again- this module does not touch Azure Machine Learning.  Its a plain experiment in Python, in a Jupyter notebook, to be run in the Notebook VM.<br>
+Once again- this module does not touch Azure Machine Learning.  Its a plain experiment in Python, in a Jupyter notebook, to be run in the Notebook VM.
+<br><br>Dedicate 30 minutes for this module if you want to understand, or 15 if you want to execute, and your focus is mostly on the DevOps component.
 
 ## 1.0. About the dataset, framingham.csv
 The dataset is framingham.csv, you downloaded it in section 2;  Its a popular Kaggle open dataset.<br>
