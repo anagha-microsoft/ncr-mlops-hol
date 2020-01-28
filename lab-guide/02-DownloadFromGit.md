@@ -41,6 +41,9 @@ You will need to upload the training dataset to blob storage, and to upload Jupy
 <hr>
 <br>
 
-## 3.0. Next
+## Recap
+Its a wrap for this module.  In this module you learned to donwload the lab source code from git, and familiarized yourself with the same.
+
+## Next
 
 Navigate to the next section of the lab guide that details how to load data into the storage account.
