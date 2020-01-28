@@ -342,13 +342,13 @@ As a quick exercise - <br>
 <hr>
 <br>
 
-6. <br>
+6. Expand "scripts-ml" - it is a point in time snapshot of code associated with the model trained and registered in the pipeline<br>
 ![dse3-6](../images/0001-artifact-06.png)
 <br>
 <hr>
 <br>
 
-7. <br>
+7. Expand "scripts-operationalize" - it is a point in time snapshot of code used in the build pipeline (some are specific to release pipeline)<br>
 ![dse3-7](../images/0001-artifact-07.png)
 <br>
 <hr>
