@@ -2,7 +2,6 @@
 
 ## About
 This module covers review of a model training experiment with Azure ML integration. The notebook, 02-ml-ops-training.ipynb, referenced in the module is a sample you can use to show a Data Scientist how to leverage AML Service for transient training compute provisioning, model training, and registering the trained model into AML model registry. Section 8 of the notebook will be leveraged as a .py script in the DevOps pipeline.
-
 <br><br>Dedicate 90 minutes for this module to thoroyghly understand and execute this module;  Note that this module is more about AML and less about DevOps but lays the foundation to programmatically complete model training leveraging managed compute and registry features in AML (and more).
 
 ## 1.0. Launch the notebook...
