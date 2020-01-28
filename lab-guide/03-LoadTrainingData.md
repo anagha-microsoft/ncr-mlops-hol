@@ -2,7 +2,7 @@
 
 ## About
 This module covers loading training data to your storage account.  Its important to have completed the previous section that covers downloading data and notebooks.
-<br>
+<br><br>Dedicate 5-10 minutes for this module.
 
 ## 1.0. Create a container in your storage account
 1. Navigate to the storage account on the portal
