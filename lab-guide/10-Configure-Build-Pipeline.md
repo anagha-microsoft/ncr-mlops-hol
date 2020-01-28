@@ -3,7 +3,7 @@
 
 ## About
 This module covers configuring a build pipeline and executing it, and finally renaming it to something meaningful<br>
-Time taken: 45 minutes to an hour to complete
+Time taken: Dedicate 90 minutes for this module - to thoroughly understand and execute
 
 ## 1.0. Navigate to pipelines and create a build pipeline
 
