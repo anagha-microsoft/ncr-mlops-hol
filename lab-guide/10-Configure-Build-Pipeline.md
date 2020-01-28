@@ -105,54 +105,54 @@ Note that it does not have "manual" keyword in it
 <hr>
 <br>
 
-15) ....<br>
+15) Run 1 for provisioninhg the training compute<br>
 
 ![dse2-16](../images/0001-create-build-pipeline-16.png)
 <br>
 <hr>
 <br>
 
-16) ....<br>
+16) Here is run 2<br>
 ![dse2-17](../images/0001-create-build-pipeline-17.png)
 <br>
 <hr>
 <br>
 
-17) ....<br>
+17) Run 2 is the build pipeline<br>
 ![dse2-18](../images/0001-create-build-pipeline-18.png)
 <br>
 <hr>
 <br>
 
-18) ....<br>
+18) Here is run #3<br>
 ![dse2-19](../images/0001-create-build-pipeline-19.png)
 <br>
 <hr>
 <br>
 
 
-19) ....<br>
+19) Its the model training step.  Click on the runID link..<br>
 ![dse2-20](../images/0001-create-build-pipeline-20.png)
 <br>
 <hr>
 <br>
 
 
-20) ....<br>
+20) Click on the link to the training compute<br>
 ![dse2-21](../images/0001-create-build-pipeline-21.png)
 <br>
 <hr>
 <br>
 
 
-21) ....<br>
+21) Fancy new AML UI that shows the transient compute state<br>
 ![dse2-22](../images/0001-create-build-pipeline-22.png)
 <br>
 <hr>
 <br>
 
 
-22) ....<br>
+22) Observe the steps<br>
 ![dse2-23](../images/0001-create-build-pipeline-23.png)
 <br>
 <hr>
