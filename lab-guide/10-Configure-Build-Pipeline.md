@@ -271,50 +271,56 @@ Note that it does not have "manual" keyword in it
 <hr>
 <br>
 
-39) ....<br>
-![dse2-38](../images/0001-create-build-pipeline-38.png)
+42) ....<br>
+![dse2-41](../images/0001-create-build-pipeline-41.png)
 <br>
 <hr>
 <br>
 
-39) ....<br>
-![dse2-38](../images/0001-create-build-pipeline-38.png)
+43) ....<br>
+![dse2-42](../images/0001-create-build-pipeline-42.png)
 <br>
 <hr>
 <br>
 
-39) ....<br>
-![dse2-38](../images/0001-create-build-pipeline-38.png)
+44) ....<br>
+![dse2-43](../images/0001-create-build-pipeline-43.png)
 <br>
 <hr>
 <br>
 
-39) ....<br>
-![dse2-38](../images/0001-create-build-pipeline-38.png)
+45) ....<br>
+![dse2-44](../images/0001-create-build-pipeline-44.png)
 <br>
 <hr>
 <br>
 
-39) ....<br>
-![dse2-38](../images/0001-create-build-pipeline-38.png)
+46) ....<br>
+![dse2-45](../images/0001-create-build-pipeline-45.png)
 <br>
 <hr>
 <br>
 
-39) ....<br>
-![dse2-38](../images/0001-create-build-pipeline-38.png)
+47) ....<br>
+![dse2-46](../images/0001-create-build-pipeline-46.png)
 <br>
 <hr>
 <br>
 
-39) ....<br>
-![dse2-38](../images/0001-create-build-pipeline-38.png)
+48) ....<br>
+![dse2-47](../images/0001-create-build-pipeline-47.png)
 <br>
 <hr>
 <br>
 
-39) ....<br>
-![dse2-38](../images/0001-create-build-pipeline-38.png)
+49) ....<br>
+![dse2-48](../images/0001-create-build-pipeline-48.png)
+<br>
+<hr>
+<br>
+
+50) ....<br>
+![dse2-49](../images/0001-create-build-pipeline-49.png)
 <br>
 <hr>
 <br>
