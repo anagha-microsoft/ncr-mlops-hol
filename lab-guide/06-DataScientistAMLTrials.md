@@ -101,7 +101,7 @@ In Jupyter, execute this cell..<br>
 <hr>
 <br>
 
-Observe the status changinbg in the cell output..
+Observe the status changing in the cell output..
 ![dse2-6-2](../images/0001-ds-aml-06-2.png)
 <br>
 <hr>
@@ -214,13 +214,64 @@ In Jupyter, execute this cell..<br>
 <hr>
 <br>
 
+Click on the link
 ![dse2-13-2](../images/0001-ds-aml-13-2.png)
 <br>
 <hr>
 <br>
 
+Click on the run number...
+![dse2-13-3](../images/0001-ds-aml-13-3.png)
+<br>
+<hr>
+<br>
+
+Out fancy new UI shows the compute state
+![dse2-13-4](../images/0001-ds-aml-13-4.png)
+<br>
+<hr>
+<br>
+
+Other general details, back in the portal experience...
+![dse2-13-5](../images/0001-ds-aml-13-5.png)
+<br>
+<hr>
+<br>
+
+The model output...
+![dse2-13-6](../images/0001-ds-aml-13-6.png)
+<br>
+<hr>
+<br>
+
+
+The logs..
+![dse2-13-7](../images/0001-ds-aml-13-7.png)
+<br>
+<hr>
+<br>
+
+
+A snapshot of the training script is persisted along with the experiment run details for history and ntraceability
+![dse2-13-8](../images/0001-ds-aml-13-8.png)
+<br>
+<hr>
+<br>
+
+## 14.0. A final look at the model in Azure Machine Learning Workspace - the registry
+In Jupyter, execute this cell..<br>
+![dse2-14-1](../images/0001-ds-aml-14-1.png)
+<br>
+<hr>
+<br>
+
+![dse2-14-2](../images/0001-ds-aml-14-2.png)
+<br>
+<hr>
+<br>
+
 ## Next steps
-Move to the next module -> data scientist trials continued, this time, with AML integration.
+Move to the next module -> Azure DevOps.
 
 
 
