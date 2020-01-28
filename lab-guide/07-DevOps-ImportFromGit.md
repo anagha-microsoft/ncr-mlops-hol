@@ -33,7 +33,7 @@ Browse each directory..
 ## 2.0. Log on to Azure DevOps...
 In the browser, go to dev.azure.com and navigate to the ncr-chd-mlops project you created in module 1.
 
-![devops-5](../images/0001-logon-devops-05.png)
+![devops-5](../images/0001-logon-devops-01.png)
 <br>
 <hr>
 <br>
