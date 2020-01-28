@@ -159,45 +159,45 @@ Note that it does not have "manual" keyword in it
 <br>
 
 
-23) ....<br>
+23) Look at the detailed log on the right.  MNot optimal for production, but great for learning MLOps.<br>
 ![dse2-24](../images/0001-create-build-pipeline-24.png)
 <br>
 <hr>
 <br>
 
 
-24) ....<br>
+24) Where are we now?<br>
 ![dse2-25](../images/0001-create-build-pipeline-25.png)
 <br>
 <hr>
 <br>
 
 
-25) ....<br>
+25) Inside containerize.py<br>
 ![dse2-26](../images/0001-create-build-pipeline-26.png)
 <br>
 <hr>
 <br>
 
-26) ....<br>
+26) Determine if the model makes the cut to be deployed..<br>
 ![dse2-27](../images/0001-create-build-pipeline-27.png)
 <br>
 <hr>
 <br>
 
-27) ....<br>
+27) Registering container image<br>
 ![dse2-28](../images/0001-create-build-pipeline-28.png)
 <br>
 <hr>
 <br>
 
-28) ....<br>
+28) Check on the portal AML workspace for impage registration<br>
 ![dse2-29](../images/0001-create-build-pipeline-29.png)
 <br>
 <hr>
 <br>
 
-29) ....<br>
+29) Back in the main master build pipeline<br>
 ![dse2-30](../images/0001-create-build-pipeline-30.png)
 <br>
 <hr>
