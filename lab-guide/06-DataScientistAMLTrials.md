@@ -271,6 +271,9 @@ In Jupyter, execute this cell..<br>
 <hr>
 <br>
 
+## Recap
+Its a wrap for this module.  In this module you learned to (1) integrate ML code from the previous module with AML, (2) you learned to programmatically provision transient training compute, (3) programmatically push model training to provisioned AML managed compute, (4) persist model locally, (5) then check it into Azure ML model registry; (6) You finally learned how to correlate the elemnts you worked on to the visuals you get in the AML workspace as the experiment progresses.
+
 ## Next steps
 Move to the next module -> Azure DevOps.
 
