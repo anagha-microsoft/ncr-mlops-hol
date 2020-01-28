@@ -307,37 +307,49 @@ Note that it does not have "manual" keyword in it
 ## 4. The "build artifact"
 The build artifact is published as part of the pipeline and it captures a snapshot of the code, training data and associated assets created.  It is tightly associated with an experiment run.  One component of it - a json file, forms the input for our release pipeline.  <br>
 
-As a quick exercise, <br>
+As a quick exercise - <br>
 (1) Navigate in your git repo, and locate references to "artifact" <br>
 (2) Locate the artifact of the first execution. download and browse through it<br>
 (3) Review the json file and understand its contents<br>
 
-1. Navigate to a recent run and click on it to get to the artifact
+1. Navigate to a recent run and click on it to get to the artifact<br>
 ![dse3-1](../images/0001-artifact-01.png)
 <br>
 <hr>
 <br>
 
-2.
+2. You should see the top level artifact<br>
 ![dse3-2](../images/0001-artifact-02.png)
 <br>
 <hr>
 <br>
 
-3.
+3. Expand<br>
 ![dse3-3](../images/0001-artifact-03.png)
 <br>
 <hr>
 <br>
 
-4.
+4. Expand the output directory<br>
 ![dse3-4](../images/0001-artifact-04.png)
 <br>
 <hr>
 <br>
 
-5.
+5. Examine the json, and discuss the contents with the person next to you if you are executing this in a classroom setup.  Trace each artifact element to your AML workspace<br>
 ![dse3-5](../images/0001-artifact-05.png)
+<br>
+<hr>
+<br>
+
+6. <br>
+![dse3-6](../images/0001-artifact-06.png)
+<br>
+<hr>
+<br>
+
+7. <br>
+![dse3-7](../images/0001-artifact-07.png)
 <br>
 <hr>
 <br>
