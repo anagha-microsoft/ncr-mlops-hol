@@ -172,8 +172,8 @@ Note that it does not have "manual" keyword in it
 <br>
 
 
-22) ....<br>
-![dse2-23](../images/0001-create-build-pipeline-23.png)
+25) ....<br>
+![dse2-26](../images/0001-create-build-pipeline-26.png)
 <br>
 <hr>
 <br>
