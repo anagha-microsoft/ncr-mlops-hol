@@ -2,7 +2,8 @@
 # Module 10 - Configure and run the build pipeline in Azure DevOps
 
 ## About
-This module covers configuring a build pipeline and executing it, and finally renaming it to something meaningful.  This section takes 45 minutes to an hour to complete.
+This module covers configuring a build pipeline and executing it, and finally renaming it to something meaningful<br>
+Time taken: 45 minutes to an hour to complete
 
 ## 1.0. Navigate to pipelines and create a build pipeline
 
