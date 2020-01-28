@@ -2,7 +2,8 @@
 
 ## About
 This module covers downloading the experimental notebooks and training datasets we will need for the lab.
-<br>
+<br><br>Dedicate 5 minutes for this module.
+
 ## 1.0. Download from git
 ![d-1](../images/0001-download-1.png)
 <br>
