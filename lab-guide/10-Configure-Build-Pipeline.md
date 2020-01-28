@@ -96,3 +96,33 @@ Note that it does not have "manual" keyword in it
 <br>
 <hr>
 <br>
+
+14) ....<br>
+![dse2-15](../images/0001-create-build-pipeline-15.png)
+<br>
+<hr>
+<br>
+
+15) ....<br>
+![dse2-16](../images/0001-create-build-pipeline-16.png)
+<br>
+<hr>
+<br>
+
+16) ....<br>
+![dse2-17](../images/0001-create-build-pipeline-17.png)
+<br>
+<hr>
+<br>
+
+17) ....<br>
+![dse2-18](../images/0001-create-build-pipeline-18.png)
+<br>
+<hr>
+<br>
+
+18) ....<br>
+![dse2-19](../images/0001-create-build-pipeline-19.png)
+<br>
+<hr>
+<br>
