@@ -49,7 +49,7 @@ Make a note of the service connection name.
 
 ## 7.0. In a couple minutes you should see your service connection created
 
-![dse2-7](../images/0001-create-service-connection-0\7.png)
+![dse2-7](../images/0001-create-service-connection-07.png)
 <br>
 <hr>
 <br>
