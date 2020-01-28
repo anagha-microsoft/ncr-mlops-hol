@@ -70,3 +70,21 @@ Browse around...
 <br>
 <hr>
 <br>
+
+Browse around...
+![dse2-11](../images/0001-create-build-pipeline-11.png)
+<br>
+<hr>
+<br>
+
+Browse around...
+![dse2-12](../images/0001-create-build-pipeline-12.png)
+<br>
+<hr>
+<br>
+
+Browse around...
+![dse2-13](../images/0001-create-build-pipeline-13.png)
+<br>
+<hr>
+<br>
