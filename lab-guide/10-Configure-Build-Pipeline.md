@@ -254,6 +254,8 @@ Note that it does not have "manual" keyword in it
 <hr>
 <br>
 
+## 3. Lets trigger a build and ensure it completes successfully
+
 38) Note this line in the Build Master YAML - any change to git master branch will trigger build<br>
 ![dse2-39](../images/0001-create-build-pipeline-39.png)
 <br>
@@ -290,32 +292,20 @@ Note that it does not have "manual" keyword in it
 <hr>
 <br>
 
-44) Total time<br>
+44) Successful!!<br>
 ![dse2-45](../images/0001-create-build-pipeline-45.png)
 <br>
 <hr>
 <br>
 
-45) ....<br>
+45) Total time<br>
 ![dse2-46](../images/0001-create-build-pipeline-46.png)
 <br>
 <hr>
 <br>
 
-46) ....<br>
-![dse2-47](../images/0001-create-build-pipeline-47.png)
-<br>
-<hr>
-<br>
+## Recap
+Its a wrap for this module.  You now know how to configure a "Build" pipeline tnat provisions transient compute, trains a model, registers the model into AML model registry, and creates a container image and registers it into AML container registry.  
 
-47) ....<br>
-![dse2-48](../images/0001-create-build-pipeline-48.png)
-<br>
-<hr>
-<br>
-
-48) ....<br>
-![dse2-49](../images/0001-create-build-pipeline-49.png)
-<br>
-<hr>
-<br>
+## Next steps
+Move to the next module -> this covers building the release pipeline.
