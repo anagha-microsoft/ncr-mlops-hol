@@ -312,10 +312,36 @@ As a quick exercise, <br>
 (2) Locate the artifact of the first execution. download and browse through it<br>
 (3) Review the json file and understand its contents<br>
 
-![dse2-46](../images/0001-create-build-pipeline-46.png)
+1. Navigate to a recent run and click on it to get to the artifact
+![dse3-1](../images/0001-artifact-01.png)
 <br>
 <hr>
 <br>
+
+2.
+![dse3-2](../images/0001-artifact-02.png)
+<br>
+<hr>
+<br>
+
+3.
+![dse3-3](../images/0001-artifact-03.png)
+<br>
+<hr>
+<br>
+
+4.
+![dse3-4](../images/0001-artifact-04.png)
+<br>
+<hr>
+<br>
+
+5.
+![dse3-5](../images/0001-artifact-05.png)
+<br>
+<hr>
+<br>
+
 
 ## Recap
 Its a wrap for this module.  You now know how to (1) navitgate in Azure DevOps, (2) and configure a "Build" pipeline that (3) provisions transient compute, (4) trains a model on the provisioned remote compute, (5) registers the model into AML model registry, and (6) creates a container image and (7) registers it into AML container registry. You also know (8) how to monitor the pipeline progress in Azure DevOps and (9) correlate to ML assets that become available in AML workspace on the portal from the pipeline execution; Finally (10) you understand what the published artifact is, how to locate it, how its tracked, and its function relative to the release pipeline
