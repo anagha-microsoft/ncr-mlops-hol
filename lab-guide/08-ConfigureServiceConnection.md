@@ -4,6 +4,8 @@
 ## About
 This module covers setting up a service principal based connection to your AML workspace buy Azure DevOps so the pipelines can be automated versus the manual device authentication we did in the Jupyter notebook.
 
+<br><br>Dedicate 5 minutes for this module.
+
 ## 1.0. Navigate to project settings in Azure DevOps web UI...
 
 ![dse2-1](../images/0001-create-service-connection-01.png)
