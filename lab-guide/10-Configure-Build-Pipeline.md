@@ -5,7 +5,7 @@
 This module covers configuring a build pipeline and executing it, and finally renaming it to something meaningful
 <br><br>Dedicate 120 minutes for this module - to thoroughly understand and execute
 
-## 1.0. Navigate to pipelines and create a build pipeline
+## 1.0. Create a build pipeline in Azure DevOps
 
 ![dse2-0](../images/0001-create-build-pipeline-00.png)
 <br>
@@ -221,51 +221,52 @@ Note that it does not have "manual" keyword in it
 <hr>
 <br>
 
-33) ....<br>
+33) Done<br>
 ![dse2-34](../images/0001-create-build-pipeline-34.png)
 <br>
 <hr>
 <br>
 
-34) ....<br>
+34) Click on "Publish artifacts" - this is critical for the release pipeline<br>
 ![dse2-35](../images/0001-create-build-pipeline-35.png)
 <br>
 <hr>
 <br>
 
-35) ....<br>
+35) Done<br>
 ![dse2-36](../images/0001-create-build-pipeline-36.png)
 <br>
 <hr>
 <br>
 
+## 2. Rename the pipeline to indicate it is the "Build" pipeline
 
-36) ....<br>
+36) Click on pipelines<br>
 ![dse2-37](../images/0001-create-build-pipeline-37.png)
 <br>
 <hr>
 <br>
 
 
-37) ....<br>
+37) Rename<br>
 ![dse2-38](../images/0001-create-build-pipeline-38.png)
 <br>
 <hr>
 <br>
 
-38) ....<br>
+38) Note this line in the Build Master YAML - any change to git master branch will trigger build<br>
 ![dse2-39](../images/0001-create-build-pipeline-39.png)
 <br>
 <hr>
 <br>
 
-39) ....<br>
+39) Edit the Readme.md to launch a build pipeline<br>
 ![dse2-40](../images/0001-create-build-pipeline-40.png)
 <br>
 <hr>
 <br>
 
-40) ....<br>
+40) Commit to master<br>
 ![dse2-41](../images/0001-create-build-pipeline-41.png)
 <br>
 <hr>
@@ -277,19 +278,19 @@ Note that it does not have "manual" keyword in it
 <hr>
 <br>
 
-42) ....<br>
+42) Notice that it launched a job<br>
 ![dse2-43](../images/0001-create-build-pipeline-43.png)
 <br>
 <hr>
 <br>
 
-43) ....<br>
+43) Give it 30 minutes - ensure it was successful<br>
 ![dse2-44](../images/0001-create-build-pipeline-44.png)
 <br>
 <hr>
 <br>
 
-44) ....<br>
+44) Total time<br>
 ![dse2-45](../images/0001-create-build-pipeline-45.png)
 <br>
 <hr>
