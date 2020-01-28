@@ -219,6 +219,43 @@ In Jupyter, execute this cell..<br>
 <hr>
 <br>
 
+![dse2-13-3](../images/0001-ds-aml-13-3.png)
+<br>
+<hr>
+<br>
+
+![dse2-13-4](../images/0001-ds-aml-13-4.png)
+<br>
+<hr>
+<br>
+
+![dse2-13-5](../images/0001-ds-aml-13-5.png)
+<br>
+<hr>
+<br>
+
+![dse2-13-6](../images/0001-ds-aml-13-6.png)
+<br>
+<hr>
+<br>
+
+
+![dse2-13-7](../images/0001-ds-aml-13-7.png)
+<br>
+<hr>
+<br>
+
+
+![dse2-13-8](../images/0001-ds-aml-13-8.png)
+<br>
+<hr>
+<br>
+
+
+
+
+
+
 ## Next steps
 Move to the next module -> data scientist trials continued, this time, with AML integration.
 
