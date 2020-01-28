@@ -30,16 +30,16 @@ Browse each directory..
 <br>
 
 
-## 1.0. Log on to Azure DevOps...
+## 2.0. Log on to Azure DevOps...
 In the browser, go to dev.azure.com and navigate to the ncr-chd-mlops project you created in module 1.
 
-![dse2-1](../images/0001-ds-aml-00-1.png)
+![devops-5](../images/0001-devops-import-git-01.png)
 <br>
 <hr>
 <br>
 
 
-## 2.0. Click on the project...
+## 3.0. Click on the project...
 Launch 02-ml-ops-training.ipynb.  You can get to it in your Jupyter environment, you uploaded it in a previous module.
 
 ![dse2-1](../images/0001-ds-aml-00-1.png)
