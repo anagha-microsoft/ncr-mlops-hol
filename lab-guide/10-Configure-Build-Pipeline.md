@@ -98,12 +98,14 @@ Note that it does not have "manual" keyword in it
 <br>
 
 14) ....<br>
+
 ![dse2-15](../images/0001-create-build-pipeline-15.png)
 <br>
 <hr>
 <br>
 
 15) ....<br>
+
 ![dse2-16](../images/0001-create-build-pipeline-16.png)
 <br>
 <hr>
