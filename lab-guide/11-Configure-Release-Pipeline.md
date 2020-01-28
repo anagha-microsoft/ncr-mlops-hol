@@ -17,4 +17,4 @@ This module covers configuring a release pipeline and executing it.  It also cov
 Its a wrap for this module.  You now know how to (1) ..
 
 ## Next steps
-Move to the next module -> this covers testing the REST service in a Jupyter notebook
+Move to the next module -> this covers testing the REST service operationalized as part of the release pipeline, manually, in a Jupyter notebook
