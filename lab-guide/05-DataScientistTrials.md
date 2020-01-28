@@ -7,6 +7,7 @@ A data scientist would build their experiment as depicted in this module, in a J
 
 Once again- this module does not touch Azure Machine Learning.  Its a plain experiment in Python, in a Jupyter notebook, to be run in the Notebook VM.
 <br><br>Dedicate 30 minutes for this module if you want to understand, or 15 if you want to execute, and your focus is mostly on the DevOps component.
+<br><br>About scikit-learn: https://scikit-learn.org/stable/
 
 ## 1.0. About the dataset, framingham.csv
 The dataset is framingham.csv, you downloaded it in section 2;  Its a popular Kaggle open dataset.<br>
