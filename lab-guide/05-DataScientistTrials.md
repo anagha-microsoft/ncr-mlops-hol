@@ -6,6 +6,9 @@ This module covers an entire model training experiment - notebook, 01-ml-trials-
 A data scientist would build their experiment as depicted in this module, in a Jupyter notebook.  In the next module, we will learn how to integrate this exact experiment, with Azure Machine Learning.  Eventually, we will learn to package this into a DevOps build pipeline.  This module merely demonstrates a base experiment and traces the lifecycle of model development.<br>
 
 Once again- this module does not touch Azure Machine Learning.  Its a plain experiment in Python, in a Jupyter notebook, to be run in the Notebook VM.
+
+<br> Scroll below to learn the type of experiment it is and more about the dataset and use case.  You could skip executing this altogether, and just read the code and move to the next module.
+
 <br><br>Dedicate 30 minutes for this module if you want to understand, or 15 if you want to execute, and your focus is mostly on the DevOps component.
 <br><br>About scikit-learn: https://scikit-learn.org/stable/
 
@@ -38,7 +41,7 @@ Given a set of attributes, predict whether a person is at risk of heart disease.
 
 ## 3.0. About the experiment
 The data scientist first prepares the data/data engineers, then runs an ML algorithm to train the model.
-The experiment is supervised learning, classification type, leveraging Scikit-Learn library.  Use case is Coronary Heart Disease Prediction with the famous Kaggle dataset - framingham.csv described above.
+The experiment is supervised learning, classification type, leveraging Scikit-Learn library.  It uses the RandomForest classifier algorithm.  
 
 ## 4.0. Why this notebook?
 This notebook introduces the Jupyter notebook on Azure; Typically, a data scientist would run experiments here, and then collabnorate with the DevOps engineer for operationalizing the pipelines and the model as a REST service.  In the next module, you will learn how to take the code and integrate with Azure Machine Learning.<br>
@@ -117,6 +120,9 @@ The focus is not the ML experiment as much as how to integrate with Azure Machin
 <br>
 <hr>
 <br>
+
+## Recap
+Its a wrap for this module.  In this module you learned to (1) a simple machine lerarning experiment - supervised learning - binary classification, (2) you learned to execute it in Jupyter notebook service, and (3) you learned how a data scientist starts off building an experiment.  Its a precursor to how to integrate an experiment with Azure Machine Learning for various ML functions.
 
 ## Next steps
 Move to the next module -> data scientist trials continued, this time, with AML integration.
