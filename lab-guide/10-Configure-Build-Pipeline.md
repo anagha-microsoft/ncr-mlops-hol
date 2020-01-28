@@ -11,13 +11,13 @@ This module covers configuring a build pipeline and executing it, and finally re
 <hr>
 <br>
 
-Select existinvg YAML as the base
+Select existing Azure Pipelines YAML as the base
 ![dse2-1](../images/0001-create-build-pipeline-01.png)
 <br>
 <hr>
 <br>
 
-Select exist YAML as the base
+Select the YAML file
 ![dse2-2](../images/0001-create-build-pipeline-02.png)
 <br>
 <hr>
