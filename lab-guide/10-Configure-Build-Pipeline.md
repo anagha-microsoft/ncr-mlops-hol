@@ -3,7 +3,7 @@
 
 ## About
 This module covers configuring a build pipeline and executing it, and finally renaming it to something meaningful.  It also covers stufy of the AML assets created, and artifact published which is input for the release pipeline.
-<br><br>Dedicate 120 minutes for this module - to thoroughly understand and execute
+<br><br>Dedicate 180 minutes for this module - to thoroughly understand and execute
 
 ## 1.0. Create a build pipeline in Azure DevOps
 
@@ -312,7 +312,10 @@ As a quick exercise, <br>
 (2) Locate the artifact of the first execution. download and browse through it<br>
 (3) Review the json file and understand its contents<br>
 
-
+![dse2-46](../images/0001-create-build-pipeline-46.png)
+<br>
+<hr>
+<br>
 
 ## Recap
 Its a wrap for this module.  You now know how to (1) navitgate in Azure DevOps, (2) and configure a "Build" pipeline that (3) provisions transient compute, (4) trains a model on the provisioned remote compute, (5) registers the model into AML model registry, and (6) creates a container image and (7) registers it into AML container registry. You also know (8) how to monitor the pipeline progress in Azure DevOps and (9) correlate to ML assets that become available in AML workspace on the portal from the pipeline execution; Finally (10) you understand what the published artifact is, how to locate it, how its tracked, and its function relative to the release pipeline
