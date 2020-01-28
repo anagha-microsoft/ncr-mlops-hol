@@ -258,6 +258,17 @@ A snapshot of the training script is persisted along with the experiment run det
 <hr>
 <br>
 
+## 14.0. A final look at the model in Azure Machine Learning Workspace - the registry
+In Jupyter, execute this cell..<br>
+![dse2-14-1](../images/0001-ds-aml-14-1.png)
+<br>
+<hr>
+<br>
+
+![dse2-14-2](../images/0001-ds-aml-14-2.png)
+<br>
+<hr>
+<br>
 
 ## Next steps
 Move to the next module -> Azure DevOps.
