@@ -11,16 +11,19 @@ In the browser, go to https://github.com/anagha-microsoft/ncr-mlops-hol-code and
 <hr>
 <br>
 
+Browse each directory..
 ![devops-2](../images/0001-devops-import-git-03.png)
 <br>
 <hr>
 <br>
 
+Browse each directory..
 ![devops-3](../images/0001-devops-import-git-04.png)
 <br>
 <hr>
 <br>
 
+Browse each directory..
 ![devops-4](../images/0001-devops-import-git-05.png)
 <br>
 <hr>
