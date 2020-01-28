@@ -80,3 +80,6 @@ Follow the steps below to import the code<br>
 <br>
 <hr>
 <br>
+
+## Next steps
+Move to the next module -> Configure an Azure DevOps Service Connection
