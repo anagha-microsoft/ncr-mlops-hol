@@ -305,7 +305,7 @@ Note that it does not have "manual" keyword in it
 <br>
 
 ## Recap
-Its a wrap for this module.  You now know how to configure a "Build" pipeline tnat provisions transient compute, trains a model, registers the model into AML model registry, and creates a container image and registers it into AML container registry.  
+Its a wrap for this module.  You now know how to (1) navitgate in Azure DevOps, (2) and configure a "Build" pipeline that (3) provisions transient compute, (4) trains a model on the provisioned remote compute, (5) registers the model into AML model registry, and (6) creates a container image and (7) registers it into AML container registry.  
 
 ## Next steps
 Move to the next module -> this covers building the release pipeline.
