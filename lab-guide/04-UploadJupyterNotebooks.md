@@ -2,7 +2,7 @@
 
 ## About
 This module covers provisioning a Notebook VM and uploading the experimental notebooks it.  Its important to have completed the section that covers downloading data and notebooksn from git.
-<br>
+<br><br>Dedicate 10-15 minutes for this module if you have never used Jupyter before.
 
 ## 1.0. Provision a Notebook VM instance in your Azure Machine Learning Workspace
 1. Navigate to your Azure Machine Learning instance on the Azure portal
