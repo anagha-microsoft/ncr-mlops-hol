@@ -77,14 +77,22 @@ Browse around...
 <hr>
 <br>
 
-Browse around...
+Note the steps executing...
 ![dse2-12](../images/0001-create-build-pipeline-12.png)
 <br>
 <hr>
 <br>
 
-Browse around...
+Verify if the transient compute got created...<br>
+Note that it does not have "manual" keyword in it
 ![dse2-13](../images/0001-create-build-pipeline-13.png)
+<br>
+<hr>
+<br>
+
+Verify if the experiment got created...<br>
+Note that it does not have "manual" keyword in it
+![dse2-14](../images/0001-create-build-pipeline-14.png)
 <br>
 <hr>
 <br>
