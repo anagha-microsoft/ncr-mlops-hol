@@ -203,123 +203,117 @@ Note that it does not have "manual" keyword in it
 <hr>
 <br>
 
-30) ....<br>
+30) You should see an image, click on it<br>
 ![dse2-31](../images/0001-create-build-pipeline-31.png)
 <br>
 <hr>
 <br>
 
-31) ....<br>
+31) Review the metadata<br>
 ![dse2-32](../images/0001-create-build-pipeline-32.png)
 <br>
 <hr>
 <br>
 
-32) ....<br>
+32) Almost done<br>
 ![dse2-33](../images/0001-create-build-pipeline-33.png)
 <br>
 <hr>
 <br>
 
-34) ....<br>
-![dse2-33](../images/0001-create-build-pipeline-33.png)
-<br>
-<hr>
-<br>
-
-35) ....<br>
+33) ....<br>
 ![dse2-34](../images/0001-create-build-pipeline-34.png)
 <br>
 <hr>
 <br>
 
-36) ....<br>
+34) ....<br>
 ![dse2-35](../images/0001-create-build-pipeline-35.png)
 <br>
 <hr>
 <br>
 
-37) ....<br>
+35) ....<br>
 ![dse2-36](../images/0001-create-build-pipeline-36.png)
 <br>
 <hr>
 <br>
 
 
-38) ....<br>
+36) ....<br>
 ![dse2-37](../images/0001-create-build-pipeline-37.png)
 <br>
 <hr>
 <br>
 
 
-39) ....<br>
+37) ....<br>
 ![dse2-38](../images/0001-create-build-pipeline-38.png)
 <br>
 <hr>
 <br>
 
-40) ....<br>
+38) ....<br>
 ![dse2-39](../images/0001-create-build-pipeline-39.png)
 <br>
 <hr>
 <br>
 
-41) ....<br>
+39) ....<br>
 ![dse2-40](../images/0001-create-build-pipeline-40.png)
 <br>
 <hr>
 <br>
 
-42) ....<br>
+40) ....<br>
 ![dse2-41](../images/0001-create-build-pipeline-41.png)
 <br>
 <hr>
 <br>
 
-43) ....<br>
+41) ....<br>
 ![dse2-42](../images/0001-create-build-pipeline-42.png)
 <br>
 <hr>
 <br>
 
-44) ....<br>
+42) ....<br>
 ![dse2-43](../images/0001-create-build-pipeline-43.png)
 <br>
 <hr>
 <br>
 
-45) ....<br>
+43) ....<br>
 ![dse2-44](../images/0001-create-build-pipeline-44.png)
 <br>
 <hr>
 <br>
 
-46) ....<br>
+44) ....<br>
 ![dse2-45](../images/0001-create-build-pipeline-45.png)
 <br>
 <hr>
 <br>
 
-47) ....<br>
+45) ....<br>
 ![dse2-46](../images/0001-create-build-pipeline-46.png)
 <br>
 <hr>
 <br>
 
-48) ....<br>
+46) ....<br>
 ![dse2-47](../images/0001-create-build-pipeline-47.png)
 <br>
 <hr>
 <br>
 
-49) ....<br>
+47) ....<br>
 ![dse2-48](../images/0001-create-build-pipeline-48.png)
 <br>
 <hr>
 <br>
 
-50) ....<br>
+48) ....<br>
 ![dse2-49](../images/0001-create-build-pipeline-49.png)
 <br>
 <hr>
