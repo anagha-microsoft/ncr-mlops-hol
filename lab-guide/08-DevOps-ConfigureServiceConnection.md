@@ -55,5 +55,8 @@ Make a note of the service connection name.
 <hr>
 <br>
 
+## Recap
+Its a wrap for this module.  In this module you learned to (1) create a service connection in Azure DevOps to (2) your specific AML workspace (3) leveraging a service principal for authentication, (4) for automation of authentication during the MLOps pipeline execution.
+
 ## Next steps
 Move to the next module -> where you will replace the configuration parameters in the YAML file with your specific instances.
