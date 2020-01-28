@@ -3,7 +3,7 @@
 
 ## About
 This module covers configuring a build pipeline and executing it, and finally renaming it to something meaningful
-<br><br>Dedicate 90 minutes for this module - to thoroughly understand and execute
+<br><br>Dedicate 120 minutes for this module - to thoroughly understand and execute
 
 ## 1.0. Navigate to pipelines and create a build pipeline
 
