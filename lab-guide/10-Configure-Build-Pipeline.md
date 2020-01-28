@@ -2,7 +2,7 @@
 # Module 10 - Configure and run the build pipeline in Azure DevOps
 
 ## About
-This module covers configuring a build pipeline and executing it, and finally renaming it to something meaningful.  It also covers stufy of the AML assets created, and artifact published which is input for the release pipeline.
+This module covers configuring a build pipeline and executing it, and finally renaming it to something meaningful.  It also covers study of the AML assets created, and artifact published which is input for the release pipeline.
 <br><br>Dedicate 180 minutes for this module - to thoroughly understand and execute
 
 ## 1.0. Create a build pipeline in Azure DevOps
