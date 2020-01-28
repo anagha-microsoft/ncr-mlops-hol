@@ -45,3 +45,13 @@ In the browser, go to dev.azure.com and navigate to the ncr-chd-mlops project yo
 <br>
 <hr>
 <br>
+
+## 4.0. Start the import
+
+The git URL for the source is - https://github.com/anagha-microsoft/ncr-mlops-hol-code <br>
+Follow the steps below to import the code<br>
+
+![devops-7](../images/0001-import-devops-code-01.png)
+<br>
+<hr>
+<br>
