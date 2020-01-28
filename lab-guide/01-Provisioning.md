@@ -95,6 +95,8 @@ Go to dev.azure.com <br>
 <hr>
 <br>
 
+## Recap
+Its a wrap for this module.  In this module you learned to (1) connect to the Azure portal, (2) create a resource group, (3) create an AML workspace, (4) create a blob storage account, (5) provision an Azure DevOps repo, (6) create a new project in the DevOps repo
 
 ## Next steps
 Move to the next module -> download notebooks and datasets
