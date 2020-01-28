@@ -259,12 +259,8 @@ A snapshot of the training script is persisted along with the experiment run det
 <br>
 
 
-
-
-
-
 ## Next steps
-Move to the next module -> data scientist trials continued, this time, with AML integration.
+Move to the next module -> Azure DevOps.
 
 
 
