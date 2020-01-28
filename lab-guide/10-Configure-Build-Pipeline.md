@@ -25,13 +25,6 @@ Select the YAML file
 
 
 Select the YAML file
-![dse2-3](../images/0001-create-build-pipeline-03.png)
-<br>
-<hr>
-<br>
-
-
-Select the YAML file
 ![dse2-4](../images/0001-create-build-pipeline-04.png)
 <br>
 <hr>
@@ -47,6 +40,13 @@ Select the YAML file
 
 Select the YAML file
 ![dse2-6](../images/0001-create-build-pipeline-06.png)
+<br>
+<hr>
+<br>
+
+
+Select the YAML file
+![dse2-7](../images/0001-create-build-pipeline-07.png)
 <br>
 <hr>
 <br>
