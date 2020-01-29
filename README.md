@@ -13,6 +13,8 @@ What you can expect to get out this lab:
 8.  Complete an end to end execution by editing code and committing to master branch
 9.  Complete the challenge - time permitting
 
+Due to the number of services at play and complexity of concepts, this is a scripted lab to be followed and tried out step-by-step.  There are three challenges at the end of the scripted lab, for those who are Machine Learning savvy and DevOps savvy to make it more fun.
+
 ![home-6](images/0001-homepage-06.png)
 <br>
 <hr>
@@ -23,7 +25,9 @@ What you can expect to get out this lab:
 <hr>
 <br>
 
-Credits are at the bottom of this page, thanks to all who helped.  Help improve this lab by contributing to it.
+Credits are at the bottom of this page, thanks to all who helped.  Help improve this lab by contributing to it.<br>
+
+This lab was authored in Jan 2020, and is dated in its functionality.  Refer to the Azure docs and samples from the product team for the latest and greatest.
 
 ## 2.  Audience
 
@@ -87,7 +91,19 @@ https://github.com/anagha-microsoft/ncr-mlops-hol-code
 ## 7.  Lab modules
 
 1.  [Provisioning](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/01-Provisioning.md)
-2.  
+2.  [Download Jupyter notebooks and training dataset from Git](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/02-DownloadFromGit.md)
+3.  [Upload training data](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/03-LoadTrainingData.md)
+4.  [Upload Jupyter notebooks](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/04-UploadJupyterNotebooks.md)
+5.  [The machine learning experiment in its basic form](05-DataScientistTrials.md)
+6.  [The same machine learning experiment with Azure Machine Learning service integration ](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/06-DataScientistAMLTrials.md)
+7.  [Import MLOps code into your DevOps project](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/07-DevOps-ImportFromGit.md)
+8.  [Configure a DevOps service connection](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/08-DevOps-ConfigureServiceConnection.md)
+9.  [The MLOps code - explained](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/09-DevOps-Files-Explained.md)
+10.  [Configure and test a build pipeline](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/10-Configure-Build-Pipeline.md)
+11. [Configure and test a release pipeline](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/11-Configure-Release-Pipeline.md)
+12.  [Test the REST service manually in a Jupyter notebook](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/12-RESTServiceTestOnJupyter.md)
+13.  [Lets do an End-to-End run (build + release)](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/13-EndToEndRun.md)
+14.  [What else is out there, at the time this lab was authored](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/14-WhatElseWhenItComesToAMLAndMLOps.md)
 
 
 ## 8.  Credits
