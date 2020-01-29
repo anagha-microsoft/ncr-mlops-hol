@@ -8,7 +8,7 @@ This module covers configuring a release pipeline and executing it.  It also cov
 
 ## 1.0. Create a release pipeline in Azure DevOps
 
-![dse2-0](../images/0001-create-release-pipeline-00.png)
+![dse2-0](../images/0001-release-01.png)
 <br>
 <hr>
 <br>
