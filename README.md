@@ -60,6 +60,8 @@ If you are new to Machine Learning, Azure Machine Learning and Azure DevOps, ded
 
 ## 5.  What would a data scientist need to know and do, for MLOps? What is the handoff between the data scientist and a DevOps engineer?
 
+
+
 ## 6.  Related collateral
 
 MLOps code is in a different git repo, referenced in the modules.
