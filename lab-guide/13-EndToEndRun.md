@@ -53,7 +53,7 @@ This module covers cleaning up your workspace, editing the code, and committing 
 <hr>
 <br>
 
-
+## 3.0. Monitor the build pipeline through completion (30-40 minutes - take a power nap/break)
 ![dse2-3](../images/0001-cd-test-03.png)
 <br>
 <hr>
@@ -71,3 +71,6 @@ This module covers cleaning up your workspace, editing the code, and committing 
 <hr>
 <br>
 
+Check the Azure portal - AML workspace to ensure you see the AML assets getting provisioned/created/registered
+
+## 4.0. Monitor the release pipeline through completion (30-40 minutes - take a power nap/break)
