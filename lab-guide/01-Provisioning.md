@@ -99,5 +99,5 @@ Go to dev.azure.com <br>
 Its a wrap for this module.  In this module you learned to (1) connect to the Azure portal, (2) create a resource group, (3) create an AML workspace, (4) create a blob storage account, (5) provision an Azure DevOps repo, (6) create a new project in the DevOps repo
 
 ## Next steps
-Move to the next module -> download notebooks and datasets
+Move to the next module -> download notebooks and datasets<br>
 2.  [Download Jupyter notebooks and training dataset from Git](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/02-DownloadFromGit.md)
