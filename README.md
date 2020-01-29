@@ -1,18 +1,36 @@
 ## 1.  About
 
+There are a lot of labs in GitHub for MLOps.  This one was purpose-built as part of a learning experience, and with granular instructions with much cross-referencing of DevOps pipeline execution with assets getting created/provisioned/deployed in your Azure Machine Learning (AML) workspace, for beginners, to make the journey a little easier.<br>
 
+What you can expect to get out this lab:
+1.  Learn manual portal-based provisioning - storage, AML, Azure DevOps
+2.  Learn a simple machine learning experiment if you dont have this background - run on Jupyter notebook in an AML workspace 
+3.  Take #2 a step further, with AML integration
+4.  Import MLOps code from the lab git repo into your DevOps project
+5.  Create and execute a build pipeline - provisions transient training compute, does remote model training, checks model into AML model registry, creates a container image, checks it into the container registry, publishes a build artifact
+6.  Create and execute a release pipeline - provisions an AKS cluster, operationalizes model in #5, to a REST service
+7.  Test the REST service
+8.  Complete an end to end execution by editing code and committing to master branch
+9.  Complete the challenge - time permitting
+
+Credits are at the bottom of this page, thanks to all who helped.  Help improve this lab by contributinbg to it.
 
 ## 2.  Audience
 
+North Central Region Solution Architects, and anyone who wants to try out MLOps on Azure (basics - provisioning is included).
 
 ## 3.  Time and resources committment
 
+If you are new to Machine Learning, Azure Machine Learning and Azure DevOps - dedicate at least two days for it to run slowly, and understand each step.  You will need an Azure subscription with at least a few hundred dollars.
 
-## 4.  What is MLOps?  As a data scientist what is it that I need to know and do? What si the handoff between myself and a DevOps engineer?
+## 4.  What is MLOps?  As a data scientist what is it that I need to know and do, for MLOps? What is the handoff between myself and a DevOps engineer?
 
+The instructor will cover this aspect in the classroom session.
 
 ## 5.  Related collateral
 
+1.  MLOps code is in a different git repo, referenced in the modules.
+2.  About MLOps and 
 
 ## 6.  Lab modules
 
