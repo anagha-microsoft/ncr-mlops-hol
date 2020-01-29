@@ -27,7 +27,7 @@ North Central Region Solution Architects, and anyone who wants to try out MLOps 
 
 ## 3.  Time and resources committment
 
-If you are new to Machine Learning, Azure Machine Learning and Azure DevOps - dedicate at least two-three days for it to run slowly, and understand each step.  You will need an Azure subscription with at least a few hundred dollars.
+If you are new to Machine Learning, Azure Machine Learning and Azure DevOps, dedicate at least two-three days for it to run slowly, and understand each step.  Otherwise, you can finish the lab in a few hours.  You will need an Azure subscription with at least a few hundred dollars.
 
 ## 4.  What is MLOps?  As a data scientist what is it that I need to know and do, for MLOps? What is the handoff between myself and a DevOps engineer?
 
