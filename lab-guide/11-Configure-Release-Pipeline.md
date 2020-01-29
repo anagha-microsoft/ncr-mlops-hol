@@ -27,43 +27,43 @@ This module covers configuring a release pipeline and executing it.  It also cov
 <hr>
 <br>
 
-4) ...
+4) We will add a build artifact
 ![dse2-4](../images/0001-release-04.png)
 <br>
 <hr>
 <br>
 
-5) ...
+5) Click on "Build" and fill in details
 ![dse2-5](../images/0001-release-05.png)
 <br>
 <hr>
 <br>
 
-6) ...
+6) Next we will configure a trigger for continuous deployment
 ![dse2-6](../images/0001-release-06.png)
 <br>
 <hr>
 <br>
 
-7) ...
+7) Complete the configuration as depicted
 ![dse2-7](../images/0001-release-07.png)
 <br>
 <hr>
 <br>
 
-8) ...
+8) 
 ![dse2-8](../images/0001-release-08.png)
 <br>
 <hr>
 <br>
 
-9) ...
+9) Save
 ![dse2-9](../images/0001-release-09.png)
 <br>
 <hr>
 <br>
 
-10) ...
+10) You should see a circle around the thunderbolt incon to reflect (visually) that its configured
 ![dse2-10](../images/0001-release-10.png)
 <br>
 <hr>
