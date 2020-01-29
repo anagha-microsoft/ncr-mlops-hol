@@ -64,7 +64,17 @@ If you are new to Machine Learning, Azure Machine Learning and Azure DevOps, ded
 
 ## 5.  What would a data scientist need to know and do, for MLOps? What is the handoff between the data scientist and a DevOps engineer?
 
-![home-7](images/0001-homepage-07.png)
+![home-8](images/0001-homepage-08.png)
+<br>
+<hr>
+<br>
+
+![home-9](images/0001-homepage-09.png)
+<br>
+<hr>
+<br>
+
+![home-10](images/0001-homepage-10.png)
 <br>
 <hr>
 <br>
