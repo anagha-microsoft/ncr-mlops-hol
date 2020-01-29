@@ -21,8 +21,50 @@ This module covers configuring a release pipeline and executing it.  It also cov
 <br>
 
 
-3) Click on "Empty job"
+3) Name the stage "Deploy REST Service & Test"
 ![dse2-3](../images/0001-release-03.png)
+<br>
+<hr>
+<br>
+
+4) ...
+![dse2-4](../images/0001-release-04.png)
+<br>
+<hr>
+<br>
+
+5) ...
+![dse2-5](../images/0001-release-05.png)
+<br>
+<hr>
+<br>
+
+6) ...
+![dse2-6](../images/0001-release-06.png)
+<br>
+<hr>
+<br>
+
+7) ...
+![dse2-7](../images/0001-release-07.png)
+<br>
+<hr>
+<br>
+
+8) ...
+![dse2-8](../images/0001-release-08.png)
+<br>
+<hr>
+<br>
+
+9) ...
+![dse2-9](../images/0001-release-09.png)
+<br>
+<hr>
+<br>
+
+10) ...
+![dse2-10](../images/0001-release-10.png)
 <br>
 <hr>
 <br>
