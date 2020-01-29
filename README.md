@@ -18,6 +18,10 @@ What you can expect to get out this lab:
 <hr>
 <br>
 
+![home-7](images/0001-homepage-07.png)
+<br>
+<hr>
+<br>
 
 Credits are at the bottom of this page, thanks to all who helped.  Help improve this lab by contributing to it.
 
@@ -60,7 +64,10 @@ If you are new to Machine Learning, Azure Machine Learning and Azure DevOps, ded
 
 ## 5.  What would a data scientist need to know and do, for MLOps? What is the handoff between the data scientist and a DevOps engineer?
 
-
+![home-7](images/0001-homepage-07.png)
+<br>
+<hr>
+<br>
 
 ## 6.  Related collateral
 
