@@ -6,7 +6,8 @@ Suggested time committment for thorough review is 60 minutes.
 
 ## 1.  Code layout and rationale
 
-1.  Here is the layout:
+1.  Here is the layout:<br>
+
 ![dse1-1](../images/0001-code-01.png)
 <br>
 <hr>
