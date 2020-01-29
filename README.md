@@ -86,6 +86,8 @@ https://github.com/anagha-microsoft/ncr-mlops-hol-code
  
 ## 7.  Lab modules
 
+1.  [Provisioning](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/01-Provisioning.md)
+2.  
 
 
 ## 8.  Credits
