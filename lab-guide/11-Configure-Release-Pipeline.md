@@ -193,6 +193,12 @@ This module covers configuring a release pipeline and executing it.  It also cov
 <hr>
 <br>
 
+31) 
+![dse2-31](../images/0001-release-31.png)
+<br>
+<hr>
+<br>
+
 ## Recap
 Its a wrap for this module.  You now know how to (1) ..
 
