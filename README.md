@@ -85,7 +85,7 @@ If you are new to Machine Learning, Azure Machine Learning and Azure DevOps, ded
 
 ## 6.  Related collateral
 
-MLOps code is in a different git repo.
+MLOps code is in a different git repo<br>
 https://github.com/anagha-microsoft/ncr-mlops-hol-code
  
 ## 7.  Lab modules
