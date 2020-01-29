@@ -69,68 +69,122 @@ This module covers configuring a release pipeline and executing it.  It also cov
 <hr>
 <br>
 
-11) 
+11) Rename pipeline to something meaningful
 ![dse2-11](../images/0001-release-11.png)
 <br>
 <hr>
 <br>
 
-11) 
-![dse2-11](../images/0001-release-11.png)
-<br>
-<hr>
-<br>
-
-12) 
+12) Click on "Tasks", then on "Agent job" and configure agent specs as shown in screenshot
 ![dse2-12](../images/0001-release-12.png)
 <br>
 <hr>
 <br>
 
-13) 
+13) Ensure artifact config is as shown
 ![dse2-13](../images/0001-release-13.png)
 <br>
 <hr>
 <br>
 
-14) 
+14) Save
 ![dse2-14](../images/0001-release-14.png)
 <br>
 <hr>
 <br>
 
-15) 
+15) Add a task to the "Agent job" by clicking on the "+"
 ![dse2-15](../images/0001-release-15.png)
 <br>
 <hr>
 <br>
 
-16) 
+16) Add a "Use Python task"
 ![dse2-16](../images/0001-release-16.png)
 <br>
 <hr>
 <br>
 
-17) 
+17) Configure as shown below
 ![dse2-17](../images/0001-release-17.png)
 <br>
 <hr>
 <br>
 
-18) 
+18) Save
 ![dse2-18](../images/0001-release-18.png)
 <br>
 <hr>
 <br>
 
-19) 
+19) Add another agent job task
 ![dse2-19](../images/0001-release-19.png)
 <br>
 <hr>
 <br>
 
-20) 
+20) Select "bash" this time
 ![dse2-20](../images/0001-release-20.png)
+<br>
+<hr>
+<br>
+
+21) 
+![dse2-21](../images/0001-release-21.png)
+<br>
+<hr>
+<br>
+
+22) 
+![dse2-22](../images/0001-release-22.png)
+<br>
+<hr>
+<br>
+
+23) 
+![dse2-23](../images/0001-release-23.png)
+<br>
+<hr>
+<br>
+
+24) 
+![dse2-24](../images/0001-release-24.png)
+<br>
+<hr>
+<br>
+
+25) 
+![dse2-25](../images/0001-release-25.png)
+<br>
+<hr>
+<br>
+
+26) 
+![dse2-26](../images/0001-release-26.png)
+<br>
+<hr>
+<br>
+
+27) 
+![dse2-27](../images/0001-release-27.png)
+<br>
+<hr>
+<br>
+
+28) 
+![dse2-28](../images/0001-release-28.png)
+<br>
+<hr>
+<br>
+
+29) 
+![dse2-29](../images/0001-release-29.png)
+<br>
+<hr>
+<br>
+
+30) 
+![dse2-30](../images/0001-release-30.png)
 <br>
 <hr>
 <br>
