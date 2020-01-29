@@ -306,7 +306,7 @@ service_name    chd-predictor-service<br>
 <hr>
 <br>
 
-50) Not how you can regenerate keys
+50) Note how you can regenerate keys
 ![dse2-51](../images/0001-release-51.png)
 <br>
 <hr>
@@ -314,6 +314,12 @@ service_name    chd-predictor-service<br>
 
 51) From the execution logs, grab the REST API URL and REST API key
 ![dse2-52](../images/0001-release-52.png)
+<br>
+<hr>
+<br>
+
+52) Release should complete successfully
+![dse2-57](../images/0001-release-57.png)
 <br>
 <hr>
 <br>
