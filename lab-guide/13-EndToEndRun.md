@@ -85,6 +85,7 @@ Check the Azure portal - AML workspace to ensure you see the AML assets getting 
 ## 4.0. Monitor the release pipeline through completion (30-40 minutes - take a power nap/break)
 
 1) Release should start automatically!
+
 ![dse2-7](../images/0001-cd-release-07.png)
 <br>
 <hr>
