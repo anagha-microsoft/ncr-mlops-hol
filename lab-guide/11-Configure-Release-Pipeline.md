@@ -1,9 +1,9 @@
 
 
-# Module 10 - Configure and run the release pipeline in Azure DevOps
+# Module 11 - Configure and run the release pipeline in Azure DevOps
 
 ## About
-This module covers configuring a release pipeline and executing it.  It also covers study of the AML assets createdas part of the pipeline execution.
+This module covers configuring a release pipeline and executing it.  It also covers study of the AML assets created as part of the pipeline execution.
 <br><br>Dedicate 60-90 minutes for this module - to thoroughly understand and execute
 
 ## 1.0. Create a release pipeline in Azure DevOps
@@ -12,6 +12,7 @@ This module covers configuring a release pipeline and executing it.  It also cov
 <br>
 <hr>
 <br>
+
 
 ## Recap
 Its a wrap for this module.  You now know how to (1) ..
