@@ -1,7 +1,8 @@
-# Module 13 - Execute and end to end run (build followed by release)
+# Module 13 - Execute a continuous deployment (e2e run)
 
 ## About
-This module covers cleaning up your workspace, editing the code, and committing to master -> this triggers an end to end, build to release pipeline.  This will help us ensure everything works as expected from a continuous deployment perspective.  Lets do this lab twice and observe how the release pipeline differs the second time around in the logs.
+This module covers cleaning up your workspace, editing the code, and committing to master -> this triggers an end to end, build to release pipeline.  This will help us ensure everything works as expected from a continuous deployment perspective.  Lets do this lab twice and observe how the release pipeline differs the second time around in the logs.<br>
+For your pleasure, there are challenges at the end of the module.
 <br><br>Dedicate 60-90 minutes for this module - to thoroughly understand and execute
 
 ## 1.0. Clean up resources in Azure ML workspace
