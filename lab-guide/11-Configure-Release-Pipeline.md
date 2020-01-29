@@ -105,7 +105,7 @@ This module covers configuring a release pipeline and executing it.  It also cov
 <hr>
 <br>
 
-17) Configure as shown below
+17) Configure as shown below - name it "Install Python 3.6", complete the rest of the configuration
 ![dse2-17](../images/0001-release-17.png)
 <br>
 <hr>
@@ -129,62 +129,62 @@ This module covers configuring a release pipeline and executing it.  It also cov
 <hr>
 <br>
 
-21) 
+21) Click on "Add"
 ![dse2-21](../images/0001-release-21.png)
 <br>
 <hr>
 <br>
 
-22) 
+22) Name it "Install dependencies on agent", and select script path by clicking on ellipsis
 ![dse2-22](../images/0001-release-22.png)
 <br>
 <hr>
 <br>
 
-23) 
+23) Navigate to the agent-dependencies.sh
 ![dse2-23](../images/0001-release-23.png)
 <br>
 <hr>
 <br>
 
-24) 
+24) Configure script path
 ![dse2-24](../images/0001-release-24.png)
 <br>
 <hr>
 <br>
 
-25) 
+25) Save
 ![dse2-25](../images/0001-release-25.png)
 <br>
 <hr>
 <br>
 
-26) 
+26) Add yet another task
 ![dse2-26](../images/0001-release-26.png)
 <br>
 <hr>
 <br>
 
-27) 
-![dse2-27](../images/0001-release-27.png)
-<br>
-<hr>
-<br>
-
-28) 
-![dse2-28](../images/0001-release-28.png)
-<br>
-<hr>
-<br>
-
-29) 
+27) Select "Azure CLI"
 ![dse2-29](../images/0001-release-29.png)
 <br>
 <hr>
 <br>
 
-30) 
+28) You should see an Azure CLI task
 ![dse2-30](../images/0001-release-30.png)
+<br>
+<hr>
+<br>
+
+29) Lets configure it
+![dse2-31](../images/0001-release-31.png)
+<br>
+<hr>
+<br>
+
+30) 
+![dse2-32](../images/0001-release-32.png)
 <br>
 <hr>
 <br>
