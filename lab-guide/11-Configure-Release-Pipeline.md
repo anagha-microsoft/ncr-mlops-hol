@@ -330,3 +330,5 @@ Its a wrap for this module.  You now know how to (1) configure a release pipelin
 
 ## Next steps
 Move to the next module -> this covers testing the REST service operationalized as part of the release pipeline, manually, in a Jupyter notebook
+<br>
+[Test the REST service manually in a Jupyter notebook](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/12-RESTServiceTestOnJupyter.md)
