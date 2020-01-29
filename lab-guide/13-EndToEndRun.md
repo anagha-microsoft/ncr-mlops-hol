@@ -2,6 +2,7 @@
 
 ## About
 This module covers cleaning up your workspace, editing the code, and committing to master -> this triggers an end to end, build to release pipeline.  This will help us ensure everything works as expected from a continuous deployment perspective.  Lets do this lab twice and observe how the release pipeline differs the second time around in the logs.<br>
+
 For your pleasure, there are challenges at the end of the module.
 <br><br>Dedicate 60-90 minutes for this module - to thoroughly understand and execute
 
