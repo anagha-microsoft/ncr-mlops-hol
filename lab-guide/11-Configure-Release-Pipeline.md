@@ -187,7 +187,7 @@ This module covers configuring a release pipeline and executing it.  It also cov
 
 ```python scripts-operationalize/deploy-rest-service.py --service_name $(service_name) --aks_name $(aks_name) --aks_region $(aks_region) --description $(description)```
  
-<br>
+
 ![dse2-27](../images/0001-release-27.png)
 <br>
 <hr>
