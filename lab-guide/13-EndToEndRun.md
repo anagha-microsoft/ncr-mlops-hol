@@ -86,12 +86,41 @@ Check the Azure portal - AML workspace to ensure you see the AML assets getting 
 
 1) Release should start automatically!
 
-![dse2-7](../images/0001-cd-release-07.png)
+![dsr2-2](../images/0001-cd-release-02.png)
 <br>
 <hr>
 <br>
 
+2) Release should start automatically!
 
+![dsr2-3](../images/0001-cd-release-03.png)
+<br>
+<hr>
+<br>
+
+3) Release should start automatically!
+
+![dse2-4](../images/0001-cd-release-04.png)
+<br>
+<hr>
+<br>
+
+4) Release should start automatically!
+
+![dse2-5](../images/0001-cd-release-05.png)
+<br>
+<hr>
+<br>
+
+![dse2-6](../images/0001-cd-release-06.png)
+<br>
+<hr>
+<br>
+
+![dse2-7](../images/0001-cd-release-07.png)
+<br>
+<hr>
+<br>
 
 ## 5.0. Run it again - from step 2
 Discuss/explore what is different with the second run in this module.
