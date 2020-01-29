@@ -14,12 +14,18 @@ This module covers configuring a release pipeline and executing it.  It also cov
 <hr>
 <br>
 
-2) 
+2) Click on "Empty job"
 ![dse2-2](../images/0001-release-02.png)
 <br>
 <hr>
 <br>
 
+
+3) Click on "Empty job"
+![dse2-3](../images/0001-release-03.png)
+<br>
+<hr>
+<br>
 
 ## Recap
 Its a wrap for this module.  You now know how to (1) ..
