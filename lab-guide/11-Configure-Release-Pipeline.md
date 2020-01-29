@@ -193,43 +193,42 @@ This module covers configuring a release pipeline and executing it.  It also cov
 <hr>
 <br>
 
-31) 
+31) Select directory from artifact
 ![dse2-32](../images/0001-release-32.png)
 <br>
 <hr>
 <br>
 
-32) 
-![dse2-33](../images/0001-release-33.png)
-<br>
-<hr>
-<br>
-
-33) 
-![dse2-34](../images/0001-release-34.png)
-<br>
-<hr>
-<br>
-
-34) 
+32) What it should look like
 ![dse2-35](../images/0001-release-35.png)
 <br>
 <hr>
 <br>
 
-35) 
+33) Save
+![dse2-34](../images/0001-release-34.png)
+<br>
+<hr>
+<br>
+
+34) Now lets switch to variables
 ![dse2-36](../images/0001-release-36.png)
 <br>
 <hr>
 <br>
 
-36) 
+35) Lets add pipeline variables
 ![dse2-37](../images/0001-release-37.png)
 <br>
 <hr>
 <br>
 
-37) 
+36) Key in the following variables exactly as shown below as key-value pair, including any quotes:<br>
+aks_name        chdinf01<br>
+aks_region      eastus2<br>
+description     "Coronary Heart Disease Prediction REST Service"<br>
+service_name    chd-predictor-service<br>
+   
 ![dse2-38](../images/0001-release-38.png)
 <br>
 <hr>
