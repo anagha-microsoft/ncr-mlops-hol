@@ -36,3 +36,6 @@ Its a wrap for this module. You now know how to test your REST API in Jupyter to
 
 ## Next steps
 Move to the next module -> this covers running an end to end pipeline (build to release)
+<br>
+[Lets do an End-to-End run (build + release)](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/13-EndToEndRun.md)
+
