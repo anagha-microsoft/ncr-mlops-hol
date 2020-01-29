@@ -32,7 +32,7 @@ This lab was authored in Jan 2020, and is dated in its functionality.  Refer to 
 ## 2.  Audience
 
 Any Azure Machine Learning enthusiasts who want to try out MLOps on Azure<br>
-(even basics such as (delibrately manual) provisioning is included)  
+(even basics such as (deliberately manual) provisioning is included)  
 
 ## 3.  Time and resources committment
 
