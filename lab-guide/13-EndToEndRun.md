@@ -33,10 +33,41 @@ This module covers cleaning up your workspace, editing the code, and committing 
 <br>
 
 
-5) Delete any inference compute
+5) Delete any inference compute, wait till it shows complete deletion
 ![dse2-5](../images/0001-cd-cleanup-04.png)
 <br>
 <hr>
 <br>
 
+
+## 2.0. Modify code in your DevOps git and commit to master to trigger a build pipeline
+
+1) Go to deploy-rest-service.py, line 188 and add two periods are the very end
+![dse2-1](../images/0001-cd-test-01.png)
+<br>
+<hr>
+<br>
+
+![dse2-2](../images/0001-cd-test-02.png)
+<br>
+<hr>
+<br>
+
+
+![dse2-3](../images/0001-cd-test-03.png)
+<br>
+<hr>
+<br>
+
+
+![dse2-4](../images/0001-cd-test-04.png)
+<br>
+<hr>
+<br>
+
+
+![dse2-5](../images/0001-cd-test-05.png)
+<br>
+<hr>
+<br>
 
