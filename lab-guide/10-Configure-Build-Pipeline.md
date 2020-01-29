@@ -360,3 +360,5 @@ Its a wrap for this module.  You now know how to (1) navitgate in Azure DevOps, 
 
 ## Next steps
 Move to the next module -> this covers building the release pipeline.
+<br>
+[Configure and test a release pipeline](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/11-Configure-Release-Pipeline.md)
