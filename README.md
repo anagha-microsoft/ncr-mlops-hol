@@ -13,7 +13,7 @@ What you can expect to get out this lab:
 8.  Complete an end to end execution by editing code and committing to master branch
 9.  Complete the challenge - time permitting
 
-![home-1](images/0001-homepage-06.png)
+![home-6](images/0001-homepage-06.png)
 <br>
 <hr>
 <br>
@@ -31,7 +31,32 @@ If you are new to Machine Learning, Azure Machine Learning and Azure DevOps - de
 
 ## 4.  What is MLOps?  As a data scientist what is it that I need to know and do, for MLOps? What is the handoff between myself and a DevOps engineer?
 
+![home-1](images/0001-homepage-01.png)
+<br>
+<hr>
+<br>
 
+![home-2](images/0001-homepage-02.png)
+<br>
+<hr>
+<br>
+
+![home-3](images/0001-homepage-03.png)
+<br>
+<hr>
+<br>
+
+
+![home-4](images/0001-homepage-04.png)
+<br>
+<hr>
+<br>
+
+
+![home-5](images/0001-homepage-05.png)
+<br>
+<hr>
+<br>
 
 
 ## 5.  Related collateral
