@@ -276,7 +276,8 @@ Its a wrap for this module.  In this module you learned to (1) integrate ML code
 
 ## Next steps
 Move to the next module -> Azure DevOps.
-
+<br>
+[Import MLOps code into your DevOps project](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/07-DevOps-ImportFromGit.md)
 
 
 
