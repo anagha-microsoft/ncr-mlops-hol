@@ -234,130 +234,93 @@ service_name    chd-predictor-service<br>
 <hr>
 <br>
 
-38) 
+38) Lets click on "Create Release"
 ![dse2-39](../images/0001-release-39.png)
 <br>
 <hr>
 <br>
 
-39) 
+39) Make the selection as shown below
 ![dse2-40](../images/0001-release-40.png)
 <br>
 <hr>
 <br>
 
-40) 
+40) You should a "Release-1" created; Click on the link
 ![dse2-41](../images/0001-release-41.png)
 <br>
 <hr>
 <br>
 
-41) 
+41) Here is what is displayed; Note release will not kick off automatically here, you need to trigger it to test it manually.
 ![dse2-42](../images/0001-release-42.png)
 <br>
 <hr>
 <br>
 
-42) 
+42) Hover under the "Deploy" REST service and click on "Deploy"
 ![dse2-43](../images/0001-release-43.png)
 <br>
 <hr>
 <br>
 
-43) 
+43) Enter a note to denote manual execution, and click on "Deploy"
 ![dse2-44](../images/0001-release-44.png)
 <br>
 <hr>
 <br>
 
-40) 
+44) You should see visually that the pipeline has started - see below
 ![dse2-45](../images/0001-release-45.png)
 <br>
 <hr>
 <br>
 
-40) 
+45) "Install dependencies on agent" bash script is running
 ![dse2-46](../images/0001-release-46.png)
 <br>
 <hr>
 <br>
 
-40) 
+46) Note the execution
 ![dse2-47](../images/0001-release-47.png)
 <br>
 <hr>
 <br>
 
-40) 
+47) Check the portal for creation of inference cluster; You should see the below
 ![dse2-48](../images/0001-release-48.png)
 <br>
 <hr>
 <br>
 
-40) 
+48)  Check for creation of scoring REST service; You should see the below
 ![dse2-49](../images/0001-release-49.png)
 <br>
 <hr>
 <br>
 
-40) 
+49) Review the REST service metadata
 ![dse2-50](../images/0001-release-50.png)
 <br>
 <hr>
 <br>
 
-40) 
+50) Not how you can regenerate keys
 ![dse2-51](../images/0001-release-51.png)
 <br>
 <hr>
 <br>
 
-40) 
+51) From the execution logs, grab the REST API URL and REST API key
 ![dse2-52](../images/0001-release-52.png)
 <br>
 <hr>
 <br>
 
-40) 
-![dse2-53](../images/0001-release-53.png)
-<br>
-<hr>
-<br>
-
-40) 
-![dse2-54](../images/0001-release-54.png)
-<br>
-<hr>
-<br>
-
-40) 
-![dse2-55](../images/0001-release-55.png)
-<br>
-<hr>
-<br>
-
-40) 
-![dse2-56](../images/0001-release-56.png)
-<br>
-<hr>
-<br>
-
-40) 
-![dse2-57](../images/0001-release-57.png)
-<br>
-<hr>
-<br>
-
-40) 
-![dse2-58](../images/0001-release-58.png)
-<br>
-<hr>
-<br>
-
-
 
 ## Recap
-Its a wrap for this module.  You now know how to (1) ..
+Its a wrap for this module.  You now know how to (1) configure a release pipeline, (2) run a release pipeline, (3) review the logs for REST API URL and key for testing.  We are not done with the release pipeline.  We need to stop tp test the REST service in Jupyter and then we will do a complete end to end run from build to release.
 
 ## Next steps
 Move to the next module -> this covers testing the REST service operationalized as part of the release pipeline, manually, in a Jupyter notebook
