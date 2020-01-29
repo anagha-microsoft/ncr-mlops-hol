@@ -75,5 +75,4 @@ Inspired by, and some of the code base from:
 
 Thanks to:
 1.  Michael Kareev, data scientist - for the machine learning experiment 
-2.  Dr. Thomas Abraham - for the data science related guidance as it relates to this workshop, testing and authoring some modules, and being my go-to person for all things data science on Azure.
-
+2.  Dr. Thomas Abraham - for the data science related guidance as it relates to this workshop, testing and authoring some modules
