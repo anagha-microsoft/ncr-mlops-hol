@@ -146,4 +146,5 @@ In this module, you learned how modified code triggers a continuous build + rele
 
 ## Next
 This last module speakes to what else is available in AML and MLOps that was not included in the lab for scope management.  
-
+<br>
+[What else is out there, at the time this lab was authored](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/14-WhatElseWhenItComesToAMLAndMLOps.md)
