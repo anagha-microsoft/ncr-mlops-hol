@@ -6,7 +6,7 @@ Suggested time committment for thorough review is 60 minutes.
 
 ## 1.  Organizational rationale
 
-![dse1-1](../images/0001-create-service-connection-01.png)
+![dse1-1](../images/0001-code-01.png)
 <br>
 <hr>
 <br>
@@ -14,7 +14,17 @@ Suggested time committment for thorough review is 60 minutes.
 1. Code authorted by the data scientist:<br>
 The scripts authored by the data scientists are placed in the scripts-ml directory
 
-![dse1-2](../images/0001-create-service-connection-02.png)
+![dse1-2](../images/0001-code-02.png)
+<br>
+<hr>
+<br>
+
+![dse1-3](../images/0001-code-03.png)
+<br>
+<hr>
+<br>
+
+![dse1-4](../images/0001-code-04.png)
 <br>
 <hr>
 <br>
