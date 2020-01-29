@@ -126,7 +126,5 @@ Its a wrap for this module.  In this module you learned to (1) a simple machine 
 
 ## Next steps
 Move to the next module -> data scientist trials continued, this time, with AML integration.
-
-
-
-
+<br>
+[The same machine learning experiment with Azure Machine Learning service integration ](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/06-DataScientistAMLTrials.md)
