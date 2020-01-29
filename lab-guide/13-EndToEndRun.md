@@ -13,28 +13,28 @@ This module covers cleaning up your workspace, editing the code, and committing 
 <br>
 
 2) Delete any prior deployment
-![dse2-1](../images/0001-cd-cleanup-01.png)
+![dse2-2](../images/0001-cd-cleanup-02.png)
 <br>
 <hr>
 <br>
 
 
 3) Delete any prior deployment
-![dse2-1](../images/0001-cd-cleanup-01.png)
+![dse2-3](../images/0001-cd-cleanup-03.png)
 <br>
 <hr>
 <br>
 
 
 4) Delete any prior deployment
-![dse2-1](../images/0001-cd-cleanup-01.png)
+![dse2-4](../images/0001-cd-cleanup-04.png)
 <br>
 <hr>
 <br>
 
 
 5) Delete any prior deployment
-![dse2-1](../images/0001-cd-cleanup-01.png)
+![dse2-5](../images/0001-cd-cleanup-05.png)
 <br>
 <hr>
 <br>
