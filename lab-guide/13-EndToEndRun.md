@@ -91,21 +91,21 @@ Check the Azure portal - AML workspace to ensure you see the AML assets getting 
 <hr>
 <br>
 
-2) Release should start automatically!
+2) In progress...
 
 ![dsr2-3](../images/0001-cd-release-03.png)
 <br>
 <hr>
 <br>
 
-3) Release should start automatically!
+3) Deploy and test REST service...
 
 ![dse2-4](../images/0001-cd-release-04.png)
 <br>
 <hr>
 <br>
 
-4) Release should start automatically!
+4) Completion...
 
 ![dse2-5](../images/0001-cd-release-05.png)
 <br>
@@ -126,16 +126,24 @@ Check the Azure portal - AML workspace to ensure you see the AML assets getting 
 Discuss/explore what is different with the second run in this module.
 
 ## 6.0. Challenge - 1
-1) In the script, deploy-rest-service.py, fix this piece of code that is commented out; You should be able to test the REST API as part of the script<br>
+In the script, deploy-rest-service.py, fix this piece of code that is commented out; You should be able to test the REST API as part of the script<br>
 
 ![dsc2-1](../images/0001-challenge-1.png)
 <br>
 <hr>
 <br>
 
+## 7.0. Challenge - 2
 2) Navigate to Jupyter on the portal in your AML workspace, and run through the notebook, 04-ml-trials-model-telemetry.ipynb<br>
 This enables telemetry and does some sample REST calls to collect some data for telemetry analysis
 
-3) Analyze telemetry<br>
+## 8.0. Challenge - 3
 Run through this documentation and explore your model telemetry
+https://docs.microsoft.com/en-us/azure/machine-learning/how-to-enable-data-collection
+
+## Recap
+In this module, you learned how modified code triggers a continuous build + release pipeline.  You noticed what happens from a REST service perspective with repeated runs.
+
+## Next
+This last module speakes to what else is available in AML and MLOps that was not included in the lab for scope management.  
 
