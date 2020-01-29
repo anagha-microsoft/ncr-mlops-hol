@@ -110,8 +110,8 @@ https://github.com/anagha-microsoft/ncr-mlops-hol-code
 ## 8.  Credits
 
 Inspired by, and some of the code base from:
-1.  MCW MLOps 
-2.  Azure MLOps samples - Pranith and other in the product team
+1.  [Azure MLOps samples](https://github.com/microsoft/MLOps) - Parneeth Singh Solanki and other in the product team
+2.  [MCW MLOps](https://github.com/solliancenet/MCW-MLOps)
 
 Thanks to:
 1.  Michael Kareev, data scientist - for the machine learning experiment 
