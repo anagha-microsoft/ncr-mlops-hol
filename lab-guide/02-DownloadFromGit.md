@@ -46,4 +46,5 @@ Its a wrap for this module.  In this module you learned to donwload the lab sour
 
 ## Next
 
-Navigate to the next section of the lab guide that details how to load data into the storage account.
+Navigate to the next section of the lab guide that details how to load data into the storage account.<br>
+[Upload training data](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/03-LoadTrainingData.md)
