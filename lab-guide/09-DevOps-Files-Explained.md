@@ -4,14 +4,15 @@ This section lists what the various files are and the part each one plays in the
 <br>
 Suggested time committment for thorough review is 60 minutes.
 
-## 1.  Organizational rationale
+## 1.  Code layout and rationale
 
+1.  Here is the layout:
 ![dse1-1](../images/0001-code-01.png)
 <br>
 <hr>
 <br>
 
-1. Code authorted by the data scientist:<br>
+2. Code authored by the data scientist:<br>
 The scripts authored by the data scientists are placed in the scripts-ml directory
 
 ![dse1-2](../images/0001-code-02.png)
@@ -19,6 +20,7 @@ The scripts authored by the data scientists are placed in the scripts-ml directo
 <hr>
 <br>
 
+3.  Code authored by the devops engineer:<br>
 ![dse1-3](../images/0001-code-03.png)
 <br>
 <hr>
