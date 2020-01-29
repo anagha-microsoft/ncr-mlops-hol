@@ -87,3 +87,7 @@ Its a wrap for this module.  In this module you learned to (1) navigate into you
 
 ## Next steps
 Move to the next module -> Configure an Azure DevOps Service Connection
+<br>
+[Configure a DevOps service connection](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/08-DevOps-ConfigureServiceConnection.md)
+
+
