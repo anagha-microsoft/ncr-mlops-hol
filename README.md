@@ -29,7 +29,7 @@ North Central Region Solution Architects, and anyone who wants to try out MLOps 
 
 If you are new to Machine Learning, Azure Machine Learning and Azure DevOps, dedicate at least two-three days for it to run slowly, and understand each step.  Otherwise, you can finish the lab in a few hours.  You will need an Azure subscription with at least a few hundred dollars.
 
-## 4.  What is MLOps?  As a data scientist what is it that I need to know and do, for MLOps? What is the handoff between myself and a DevOps engineer?
+## 4.  What is MLOps?  
 
 ![home-1](images/0001-homepage-01.png)
 <br>
@@ -58,21 +58,22 @@ If you are new to Machine Learning, Azure Machine Learning and Azure DevOps, ded
 <hr>
 <br>
 
+## 5.  What would a data scientist need to know and do, for MLOps? What is the handoff between the data scientist and a DevOps engineer?
 
-## 5.  Related collateral
+## 6.  Related collateral
 
 MLOps code is in a different git repo, referenced in the modules.
  
-## 6.  Lab modules
+## 7.  Lab modules
 
 
-## 7.  Credits
+## 8.  Credits
 
 Inspired by, and some of the code base from:
 1.  MCW MLOps 
 2.  Azure MLOps samples - Pranith and other in the product team
 
 Thanks to:
-1.  Machine learning experiment - Michael Kareev, data scientist
-2.  Data science related guidance, testing and authoring some modules - Dr. Thomas Abraham
+1.  Michael Kareev, data scientist - for the machine learning experiment 
+2.  Dr. Thomas Abraham - for the data science related guidance as it relates to this workshop, testing and authoring some modules, and being my go-to person for all things data science on Azure.
 
