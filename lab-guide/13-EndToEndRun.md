@@ -71,6 +71,39 @@ This module covers cleaning up your workspace, editing the code, and committing 
 <hr>
 <br>
 
+Build should complete successfully!
+![dse2-6](../images/0001-cd-release-01.png)
+<br>
+<hr>
+<br>
+
+
 Check the Azure portal - AML workspace to ensure you see the AML assets getting provisioned/created/registered
 
 ## 4.0. Monitor the release pipeline through completion (30-40 minutes - take a power nap/break)
+
+1) Release should start automatically!
+![dse2-7](../images/0001-cd-release-07.png)
+<br>
+<hr>
+<br>
+
+
+
+## 5.0. Run it again - from step 2
+Discuss/explore what is different with the second run in this module.
+
+## 6.0. Challenge - 1
+1) In the script, deploy-rest-service.py, fix this piece of code that is commented out; You should be able to test the REST API as part of the script<br>
+
+![dsc2-1](../images/0001-challenge-1.png)
+<br>
+<hr>
+<br>
+
+2) Navigate to Jupyter on the portal in your AML workspace, and run through the notebook, 04-ml-trials-model-telemetry.ipynb<br>
+This enables telemetry and does some sample REST calls to collect some data for telemetry analysis
+
+3) Analyze telemetry<br>
+Run through this documentation and explore your model telemetry
+
