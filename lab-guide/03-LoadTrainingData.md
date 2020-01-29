@@ -61,4 +61,5 @@ Note: For simplicity of the lab, we are going the route of anonymous access.  Fo
 Its a wrap for this module.  In this module you learned to (1) create a container in your blob storage account, (2) set permissions on it for access from your DevOps/ML code, (3) uploaded the training dataset from the previous module
 
 ## Next
-Proceed to the next step that covers loading the experimental notebooks into the Notebook VM provisioned in the provisioning section.
+Proceed to the next step that covers loading the experimental notebooks into the Notebook VM provisioned in the provisioning section.<br>
+[Upload Jupyter notebooks](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/04-UploadJupyterNotebooks.md)
