@@ -13,7 +13,7 @@ What you can expect to get out this lab:
 8.  Complete an end to end execution by editing code and committing to master branch
 9.  Complete the challenge - time permitting
 
-![home-1](../images/0001-homepage-06.png)
+![home-1](images/0001-homepage-06.png)
 <br>
 <hr>
 <br>
