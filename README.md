@@ -95,7 +95,7 @@ https://github.com/anagha-microsoft/ncr-mlops-hol-code
 2.  [Download Jupyter notebooks and training dataset from Git](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/02-DownloadFromGit.md)
 3.  [Upload training data](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/03-LoadTrainingData.md)
 4.  [Upload Jupyter notebooks](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/04-UploadJupyterNotebooks.md)
-5.  [The machine learning experiment in its basic form](05-DataScientistTrials.md)
+5.  [The machine learning experiment in its basic form](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/05-DataScientistTrials.md)
 6.  [The same machine learning experiment with Azure Machine Learning service integration ](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/06-DataScientistAMLTrials.md)
 7.  [Import MLOps code into your DevOps project](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/07-DevOps-ImportFromGit.md)
 8.  [Configure a DevOps service connection](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/08-DevOps-ConfigureServiceConnection.md)
