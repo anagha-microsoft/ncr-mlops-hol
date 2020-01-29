@@ -93,4 +93,5 @@ This module covers provisioning a Notebook VM and uploading the experimental not
 Its a wrap for this module.  In this module you learned to (1) connect to the Azure portal, (2) navigate to your AML workspace - compute, (3) create a notebook VM, (4) launch Jupyter notebook service on the VM upon successful provisioning, (5) Upload the notebooks for the lab
 
 ## Next steps
-Move to the next module -> data scientist trials, where you will review a simple experiment
+Move to the next module -> data scientist trials, where you will review a simple experiment<br>
+[The machine learning experiment in its basic form](05-DataScientistTrials.md)
