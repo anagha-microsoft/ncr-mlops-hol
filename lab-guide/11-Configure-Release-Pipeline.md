@@ -51,7 +51,7 @@ This module covers configuring a release pipeline and executing it.  It also cov
 <hr>
 <br>
 
-8) 
+8) You are still in the process of configuring a trigger
 ![dse2-8](../images/0001-release-08.png)
 <br>
 <hr>
