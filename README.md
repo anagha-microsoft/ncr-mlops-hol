@@ -114,5 +114,5 @@ Inspired by, and some of the code base from:
 2.  [MCW MLOps](https://github.com/solliancenet/MCW-MLOps)
 
 Thanks to:
-1.  Michael Kareev, data scientist - for the machine learning experiment 
+1.  Dr. Michael Kareev, data scientist - for the machine learning experiment 
 2.  Dr. Thomas Abraham - for the data science related guidance as it relates to this workshop, testing and authoring some modules
