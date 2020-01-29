@@ -100,4 +100,4 @@ Its a wrap for this module.  In this module you learned to (1) connect to the Az
 
 ## Next steps
 Move to the next module -> download notebooks and datasets<br>
-2.  [Download Jupyter notebooks and training dataset from Git](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/02-DownloadFromGit.md)
+[Download Jupyter notebooks and training dataset from Git](https://github.com/anagha-microsoft/ncr-mlops-hol/blob/master/lab-guide/02-DownloadFromGit.md)
