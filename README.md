@@ -115,4 +115,4 @@ Inspired by, and some of the code base from:
 
 Thanks to:
 1.  Dr. Michael Kareev, data scientist - for the machine learning experiment 
-2.  Dr. Thomas Abraham - for the data science related guidance as it relates to this workshop, testing and authoring some modules
+2.  Dr. Thomas Abraham, cloud solution architect at Microsoft - for the data science related guidance as it relates to this workshop, testing and authoring the module about what could be improved
